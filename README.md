@@ -20,6 +20,12 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | +55 34 3231-9858
 
+### São Paulo
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Onyo (trabalhamos remotamente)    | [http://onyo.com](http://onyo.com) | +55 (21) 3942-2102
+
 ## Sul
 ### Florianópolis-SC
 
