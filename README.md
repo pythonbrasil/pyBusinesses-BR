@@ -1,6 +1,20 @@
 # pyBusinesses-BR
 Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 
+## Norte
+
+## Nordeste
+### Recife-PE
+
+Empresa | Site | Contato
+ --- | --- | ---
+ Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
+
+## Centro-Oeste
+
+## Sudeste
+
+## Sul
 ### Florianópolis-SC
 
 Empresa | Site | Contato
@@ -16,10 +30,3 @@ Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 
 Contentools | [http://contentools.com ](http://contentools.com) |
 SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
 ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
-
-
-### Recife-PE
-
-Empresa | Site | Contato
- --- | --- | ---
- Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
