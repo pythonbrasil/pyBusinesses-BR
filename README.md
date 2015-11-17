@@ -27,6 +27,12 @@ Empresa              | Site                                                     
 Onyo (trabalhamos remotamente)    | [http://onyo.com](http://onyo.com) | +55 (21) 3942-2102
 filmow.com | [http://filmow.com](http://filmow.com)  | +55 (11) 3512-6600
 
+### Campinas
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
+
 ## Sul
 ### Florianópolis-SC
 
