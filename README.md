@@ -9,6 +9,7 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 Empresa | Site | Contato
  --- | --- | ---
  Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
+ Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br
 
 ## Centro-Oeste
 
