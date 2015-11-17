@@ -31,7 +31,7 @@ filmow.com | [http://filmow.com](http://filmow.com)  | +55 (11) 3512-6600
 
 Empresa              | Site                                                             | Contato
  ------------------- | ---------------------------------------------------------------- | -----------------
-Dextra | [https://dextra.com.br](Dextra) | +55 19 3256-6722
+Dextra | [https://dextra.com.br](https://dextra.com.br) | +55 19 3256-6722
 
 ## Sul
 ### Florianópolis-SC
