@@ -16,3 +16,10 @@ Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 
 Contentools | [http://contentools.com ](http://contentools.com) |
 SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
 ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
+
+
+### Recife-PE
+
+Empresa | Site | Contato
+ --- | --- | ---
+ Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
