@@ -14,6 +14,12 @@ Empresa | Site | Contato
 
 ## Sudeste
 
+### Minas Gerais
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | +55 34 3231-9858
+
 ## Sul
 ### Florianópolis-SC
 
