@@ -4,6 +4,13 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 ## Norte
 
 ## Nordeste
+
+### Bahia
+
+Empresa | Site | Contato
+ --- | --- | ---
+ JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) | 
+
 ### Recife-PE
 
 Empresa | Site | Contato
@@ -12,6 +19,13 @@ Empresa | Site | Contato
  Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br
 
 ## Centro-Oeste
+
+### Distrito Federal
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Configr    | [https://configr.com/](https://configr.com/)     | suporte@configr.com
+Hex Gis    | [http://www.hexgis.com/](http://www.hexgis.com/) | +55 61 3447-6213
 
 ## Sudeste
 
