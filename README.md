@@ -50,6 +50,12 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
 
+### Indaiatuba
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com)     | afonso.franca@diebold.com 
+
 ### Rio de Janeiro
 
 Empresa              | Site                                                             | Contato
