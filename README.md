@@ -55,6 +55,9 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 EloGroup             | [http://elogroup.com.br/](http://elogroup.com.br/)               | bernardo.fontes@elogroup.com.br
 WPensar              | [http://wpensar.com.br/](http://wpensar.com.br/)                 | gustavo.morada@wpensar.com.br
+Storm Security       | [http://stormsec.com.br/](htto://stormsec.com.br/)               | karina.garcia@stormsec.com.br
+Orama                | [http://www.orama.com.br/](http://www.orama.com.br/)             | anderson.carneiro@orama.com.br
+Hotel Urbano         | [http://www.hotelurbano.com/](http://www.hotelurbano.com/)       | bruno.moura@hotelurbano.com.br
 
 ## Sul
 ### Florianópolis-SC
