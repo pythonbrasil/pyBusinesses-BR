@@ -56,6 +56,8 @@ Empresa              | Site                                                     
 EloGroup             | [http://elogroup.com.br/](http://elogroup.com.br/)               | bernardo.fontes@elogroup.com.br
 WPensar              | [http://wpensar.com.br/](http://wpensar.com.br/)                 | gustavo.morada@wpensar.com.br
 Globo.com            | [http://www.globo.com/](http://www.globo.com/)                   | bernardo@corp.globo.com
+Parafernalia Interativa             | [http://parafernalia.net.br/](http://paraferalia.net.br/)               | luiz.senna@parafernalia.net.br
+Finxi             | [http://finxui.com.br/](http://finxi.com.br/)               | marcelo@finxi.com.br
 
 ## Sul
 ### Florianópolis-SC
