@@ -49,6 +49,12 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
 
+### Rio de Janeiro
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+EloGroup             | [http://elogroup.com.br/](http://elogroup.com.br/)               | bernardo.fontes@elogroup.com.br
+
 ## Sul
 ### Florianópolis-SC
 
