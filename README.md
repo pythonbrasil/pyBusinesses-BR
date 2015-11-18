@@ -54,6 +54,7 @@ Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
 Empresa              | Site                                                             | Contato
  ------------------- | ---------------------------------------------------------------- | -----------------
 EloGroup             | [http://elogroup.com.br/](http://elogroup.com.br/)               | bernardo.fontes@elogroup.com.br
+WPensar              | [http://wpensar.com.br/](http://wpensar.com.br/)                 | gustavo.morada@wpensar.com.br
 
 ## Sul
 ### Florianópolis-SC
