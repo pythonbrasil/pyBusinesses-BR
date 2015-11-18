@@ -29,6 +29,12 @@ Empresa | Site | Contato
 
 ## Centro-Oeste
 
+### Mato Grosso
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Ello Tecnologia      | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br)    | clayton@ellotecnologia.net.br
+
 ### Distrito Federal
 
 Empresa              | Site                                                             | Contato
