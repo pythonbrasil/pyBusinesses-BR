@@ -26,6 +26,7 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 Configr    | [https://configr.com/](https://configr.com/)     | suporte@configr.com
 Hex Gis    | [http://www.hexgis.com/](http://www.hexgis.com/) | +55 61 3447-6213
+Liberiun    | [http://www.liberiun.com/](http://www.liberiun.com/) | +55 61 3041-8172
 
 ## Sudeste
 
@@ -42,6 +43,7 @@ Empresa              | Site                                                     
 Onyo (trabalhamos remotamente)    | [http://onyo.com](http://onyo.com) | +55 (21) 3942-2102
 filmow.com | [http://filmow.com](http://filmow.com)  | +55 (11) 3512-6600
 LegalNote | [http://legalnote.com.br](http://legalnote.com.br)  | +55 (11) 3262-3122
+CathoLabs | [http://catholabs.com](http://catholabs.com)  | [http://catho.com.br](http://catho.com.br)
 
 ### Campinas
 
@@ -55,9 +57,12 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 EloGroup             | [http://elogroup.com.br/](http://elogroup.com.br/)               | bernardo.fontes@elogroup.com.br
 WPensar              | [http://wpensar.com.br/](http://wpensar.com.br/)                 | gustavo.morada@wpensar.com.br
+Storm Security       | [http://stormsec.com.br/](htto://stormsec.com.br/)               | karina.garcia@stormsec.com.br
+Orama                | [http://www.orama.com.br/](http://www.orama.com.br/)             | anderson.carneiro@orama.com.br
+Hotel Urbano         | [http://www.hotelurbano.com/](http://www.hotelurbano.com/)       | bruno.moura@hotelurbano.com.br
 Globo.com            | [http://www.globo.com/](http://www.globo.com/)                   | bernardo@corp.globo.com
-Parafernalia Interativa             | [http://parafernalia.net.br/](http://parafernalia.net.br/)               | luiz.senna@parafernalia.net.br
-Finxi             | [http://finxui.com.br/](http://finxi.com.br/)               | marcelo@finxi.com.br
+Parafernalia Interativa             | [http://parafernalia.net.br/](http://paraferalia.net.br/)               | luiz.senna@parafernalia.net.br
+Finxi             | [http://finxi.com.br/](http://finxi.com.br/)               | victor.sousa@finxi.com.br
 
 ## Sul
 ### Florianópolis-SC
