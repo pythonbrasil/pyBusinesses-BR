@@ -54,6 +54,7 @@ Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
 Empresa              | Site                                                             | Contato
  ------------------- | ---------------------------------------------------------------- | -----------------
 EloGroup             | [http://elogroup.com.br/](http://elogroup.com.br/)               | bernardo.fontes@elogroup.com.br
+globo.com            | [http://opensource.globo.com/](http://opensource.globo.com/)     | tarsis@corp.globo.com
 
 ## Sul
 ### Florianópolis-SC
