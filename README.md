@@ -65,6 +65,7 @@ Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) |
 Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | +55 (11) 2193-1961
 Loja Integrada | [http://www.lojaintegrada.com.br/](http://www.lojaintegrada.com.br/) | suporte@lojaintegrada.com.br
 Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | +55 (11) 3849-0054
+Hacklab/ | [http://hacklab.com.br/](http://hacklab.com.br/) | +55 (11) 2892-0122
 
 ### Campinas
 
