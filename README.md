@@ -89,6 +89,7 @@ Hotel Urbano         | [http://www.hotelurbano.com/](http://www.hotelurbano.com/
 Globo.com            | [http://www.globo.com/](http://www.globo.com/)                   | bernardo@corp.globo.com
 Parafernalia Interativa             | [http://parafernalia.net.br/](http://paraferalia.net.br/)               | luiz.senna@parafernalia.net.br
 Finxi             | [http://finxi.com.br/](http://finxi.com.br/)               | victor.sousa@finxi.com.br
+Stone | [http://www.stone.com.br/](http://www.stone.com.br/) | rportugal@stone.com.br
 
 ## Sul
 ### Florianópolis-SC
@@ -106,3 +107,9 @@ Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 
 Contentools | [http://contentools.com ](http://contentools.com) |
 SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
 ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
+
+### Joinville-SC
+
+Empresa | Site | Contato
+ --- | --- | ---
+ Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
