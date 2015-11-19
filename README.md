@@ -97,6 +97,7 @@ Hotel Urbano         | [http://www.hotelurbano.com/](http://www.hotelurbano.com/
 Globo.com            | [http://www.globo.com/](http://www.globo.com/)                   | bernardo@corp.globo.com
 Parafernalia Interativa             | [http://parafernalia.net.br/](http://paraferalia.net.br/)               | luiz.senna@parafernalia.net.br
 Finxi             | [http://finxi.com.br/](http://finxi.com.br/)               | victor.sousa@finxi.com.br
+Sieve | [https://sieve.com.br/](https://sieve.com.br/) | ti.vagas@sieve.com.br ; victor.novaes@sieve.com.br
 Stone | [http://www.stone.com.br/](http://www.stone.com.br/) | rportugal@stone.com.br
 
 ## Sul
