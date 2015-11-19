@@ -17,6 +17,7 @@ Empresa | Site | Contato
  --- | --- | ---
  Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
  Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br
+ Genomika Diagnósticos | [http://genomika.com.br](http://genomika.com.br) | bioinfo@genomika.com.br
 
 ## Centro-Oeste
 
