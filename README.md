@@ -113,3 +113,10 @@ ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 320
 Empresa | Site | Contato
  --- | --- | ---
  Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
+
+### Porto Alegre-RS
+
+Empresa | Site | Contato
+ --- | --- | ---
+ Globo.com | [http://www.globo.com/](http://www.globo.com/) |
+ Thoughtworks | [http://www.thoughtworks.com/](http://www.thoughtworks.com/) |
