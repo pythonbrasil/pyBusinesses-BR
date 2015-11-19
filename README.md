@@ -21,6 +21,12 @@ Empresa | Site | Contato
  PyCursos | [http://pycursos.com](http://pycursos.com) | admin@pycursos.com
  Dantas Engenharia de Avaliações | [http://www.dantasengenharia.com/](http://www.dantasengenharia.com/) | suporte@dantas.eng.br
 
+### Natal
+
+Empresa | Site | Contato
+ --- | --- | ---
+ Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | +55 11 4003-3833
+
 ## Centro-Oeste
 
 ### Distrito Federal
@@ -51,6 +57,7 @@ CathoLabs | [http://catholabs.com](http://catholabs.com)  | [http://catho.com.br
 GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
 Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) | jose.maciel@vivadecora.com.br
 Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | +55 (11) 2193-1961
+Loja Integrada | [http://www.lojaintegrada.com.br/](http://www.lojaintegrada.com.br/) | suporte@lojaintegrada.com.br
 
 ### Campinas
 
