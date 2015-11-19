@@ -9,8 +9,8 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 
 Empresa | Site | Contato
  --- | --- | ---
- JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) | 
- EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/) | 
+ JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) |
+ EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/) |
 
 ### Recife-PE
 
@@ -58,11 +58,17 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
 
+### Catanduva
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br) | +55 17 3524-2971
+
 ### Indaiatuba
 
 Empresa              | Site                                                             | Contato
  ------------------- | ---------------------------------------------------------------- | -----------------
-GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com)     | afonso.franca@diebold.com 
+GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com)     | afonso.franca@diebold.com
 
 ### Rio de Janeiro
 
