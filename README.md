@@ -10,6 +10,7 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 Empresa | Site | Contato
  --- | --- | ---
  JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) | 
+ EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/) | 
 
 ### Recife-PE
 
@@ -17,6 +18,8 @@ Empresa | Site | Contato
  --- | --- | ---
  Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
  Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br
+ PyCursos | [http://pycursos.com](http://pycursos.com) | admin@pycursos.com
+ Dantas Engenharia de Avaliações | [http://www.dantasengenharia.com/](http://www.dantasengenharia.com/) | suporte@dantas.eng.br
 
 ## Centro-Oeste
 
@@ -42,15 +45,23 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 Onyo (trabalhamos remotamente)    | [http://onyo.com](http://onyo.com) | +55 (21) 3942-2102
 filmow.com | [http://filmow.com](http://filmow.com)  | +55 (11) 3512-6600
+Stoq | [http://stoq.com.br](http://stoq.com.br)  | hireme@async.com.br
 LegalNote | [http://legalnote.com.br](http://legalnote.com.br)  | +55 (11) 3262-3122
 CathoLabs | [http://catholabs.com](http://catholabs.com)  | [http://catho.com.br](http://catho.com.br)
 GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
+Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | +55 (11) 2193-1961
 
 ### Campinas
 
 Empresa              | Site                                                             | Contato
  ------------------- | ---------------------------------------------------------------- | -----------------
 Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
+
+### Indaiatuba
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com)     | afonso.franca@diebold.com 
 
 ### Rio de Janeiro
 
