@@ -131,7 +131,7 @@ Empresa | Site | Contato
  Globo.com | [http://www.globo.com/](http://www.globo.com/) |
  Thoughtworks | [http://www.thoughtworks.com/](http://www.thoughtworks.com/) |
 
-### Porto Alegre-RS
+### Frederico Westphalen-RS
 
  Empresa | Site | Contato
   --- | --- | ---
