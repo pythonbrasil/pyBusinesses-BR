@@ -99,6 +99,7 @@ Parafernalia Interativa             | [http://parafernalia.net.br/](http://paraf
 Finxi             | [http://finxi.com.br/](http://finxi.com.br/)               | victor.sousa@finxi.com.br
 Sieve | [https://sieve.com.br/](https://sieve.com.br/) | ti.vagas@sieve.com.br ; victor.novaes@sieve.com.br
 Stone | [http://www.stone.com.br/](http://www.stone.com.br/) | rportugal@stone.com.br
+Hadrons | [http://hadrons.io/](http://hadrons.io/) | contact@hadrons.io
 
 ## Sul
 ### Florianópolis-SC
