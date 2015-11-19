@@ -48,6 +48,7 @@ filmow.com | [http://filmow.com](http://filmow.com)  | +55 (11) 3512-6600
 Stoq | [http://stoq.com.br](http://stoq.com.br)  | hireme@async.com.br
 LegalNote | [http://legalnote.com.br](http://legalnote.com.br)  | +55 (11) 3262-3122
 CathoLabs | [http://catholabs.com](http://catholabs.com)  | [http://catho.com.br](http://catho.com.br)
+GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
 Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | +55 (11) 2193-1961
 
 ### Campinas
