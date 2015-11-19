@@ -64,6 +64,7 @@ GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupc
 Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) | jose.maciel@vivadecora.com.br
 Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | +55 (11) 2193-1961
 Loja Integrada | [http://www.lojaintegrada.com.br/](http://www.lojaintegrada.com.br/) | suporte@lojaintegrada.com.br
+Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | +55 (11) 3849-0054
 
 ### Campinas
 
