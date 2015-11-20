@@ -73,6 +73,12 @@ Empresa              | Site                                                     
  ------------------- | ---------------------------------------------------------------- | -----------------
 Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
 
+### Franca
+
+Empresa              | Site                                                             | Contato
+ ------------------- | ---------------------------------------------------------------- | -----------------
+Enter&Plug Sistemas | [http://enterplug.com.br](http://enterplug.com.br) | +55 16 3721-4283 / 11 4063-1864
+
 ### Catanduva
 
 Empresa              | Site                                                             | Contato
