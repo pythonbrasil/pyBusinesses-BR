@@ -20,6 +20,7 @@ Empresa | Site | Contato
  Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br
  PyCursos | [http://pycursos.com](http://pycursos.com) | admin@pycursos.com
  Dantas Engenharia de Avaliações | [http://www.dantasengenharia.com/](http://www.dantasengenharia.com/) | suporte@dantas.eng.br
+ Genomika Diagnósticos | [http://genomika.com.br](http://genomika.com.br) | bioinfo@genomika.com.br
 
 ### Natal
 
