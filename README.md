@@ -25,7 +25,7 @@ Recife | GrupoCITEC | [https://grupocitec.com](https://grupocitec.com) | info@gr
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
  Natal | Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | +55 11 4003-3833
-
+ Natal | IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | +55 84 4005-0772
 ## Centro-Oeste
 
 ### Mato Grosso
