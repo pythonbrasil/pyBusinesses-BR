@@ -51,6 +51,7 @@ Uberlândia | Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sig
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
 Campinas | Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
+Campinas | Instituto de Pesquisas Eldorado | [http://www.eldorado.org.br](http://www.eldorado.org.br) | +55 19 3757-3000
 Catanduva | Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br) | +55 17 3524-2971
 Franca | Enter&Plug Sistemas | [http://enterplug.com.br](http://enterplug.com.br) | +55 16 3721-4283 / 11 4063-1864
 Indaiatuba | GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
