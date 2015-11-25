@@ -19,6 +19,7 @@ Recife | Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vi
 Recife | PyCursos | [http://pycursos.com](http://pycursos.com) | admin@pycursos.com
 Recife | Dantas Engenharia de Avaliações | [http://www.dantasengenharia.com/](http://www.dantasengenharia.com/) | suporte@dantas.eng.br
 Recife | Genomika Diagnósticos | [http://genomika.com.br](http://genomika.com.br) | bioinfo@genomika.com.br
+Recife | GrupoCITEC | [https://grupocitec.com](https://grupocitec.com) | info@grupocitec.com
 
 ### Rio Grande do Norte
 Cidade | Empresa | Site | Contato
