@@ -45,6 +45,8 @@ Brasília | Liberiun    | [http://www.liberiun.com/](http://www.liberiun.com/) |
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
 Uberlândia | Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | +55 34 3231-9858
+Itajubá | KMEE    | [http://kmee.com.br](http://kmee.com.br) | contato at kmee com br
+
 
 ### São Paulo
 Cidade | Empresa | Site | Contato
