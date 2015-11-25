@@ -65,6 +65,7 @@ São Paulo | Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | +5
 São Paulo | Loja Integrada | [http://www.lojaintegrada.com.br/](http://www.lojaintegrada.com.br/) | suporte@lojaintegrada.com.br
 São Paulo | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | +55 (11) 3849-0054
 São Paulo | Hacklab/ | [http://hacklab.com.br/](http://hacklab.com.br/) | +55 (11) 2892-0122
+Ribeirão Preto | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | +55 (16) 3514-9966 - ti@okubomercantil.com.br
 
 ### Rio de Janeiro
 Cidade | Empresa | Site | Contato
