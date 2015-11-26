@@ -11,6 +11,8 @@ Cidade | Empresa | Site | Contato
 Salvador | JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) |
 Salvador | EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/) |
 Salvador | Potelo | [http://www.potelo.com.br](http://www.potelo.com.br) |
+Salvador | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br 
+
 ### Pernambuco
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
