@@ -68,6 +68,7 @@ São Paulo | Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | +5
 São Paulo | Loja Integrada | [http://www.lojaintegrada.com.br/](http://www.lojaintegrada.com.br/) | suporte@lojaintegrada.com.br
 São Paulo | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | +55 (11) 3849-0054
 São Paulo | Hacklab/ | [http://hacklab.com.br/](http://hacklab.com.br/) | +55 (11) 2892-0122
+Ribeirão Preto | M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | + 55 (16) 3289 9851 - contato@m2iconsultoria.com
 Ribeirão Preto | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | +55 (16) 3514-9966 - ti@okubomercantil.com.br
 
 ### Rio de Janeiro
