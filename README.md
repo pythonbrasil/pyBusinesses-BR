@@ -2,6 +2,9 @@
 Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 
 ## Norte
+Cidade | Empresa | Site | Contato
+ --- | --- | --- | ---
+Manaus | FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) |
 
 ## Nordeste
 
