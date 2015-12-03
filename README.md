@@ -50,6 +50,9 @@ Brasília | Liberiun    | [http://www.liberiun.com/](http://www.liberiun.com/) |
 ### Minas Gerais
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
+Belo Horizonte | 2XT    | [http://www.2xt.com.br/](http://www.2xt.com.br/) | +55 31 3292-2120
+Belo Horizonte | Intip    | [http://www.intip.com.br/](http://www.intip.com.br/) | +55 31 2526-2623
+Belo Horizonte | Sílex Sistemas    | [http://www.silexsistemas.com.br/](http://www.silexsistemas.com.br/) | +55 31 3273-1530
 Uberlândia | Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | +55 34 3231-9858
 
 ### São Paulo
