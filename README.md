@@ -5,6 +5,7 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
 Manaus | FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) |
+Manaus | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 
 ## Nordeste
 
@@ -14,7 +15,7 @@ Cidade | Empresa | Site | Contato
 Salvador | JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) |
 Salvador | EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/) |
 Salvador | Potelo | [http://www.potelo.com.br](http://www.potelo.com.br) |
-Salvador | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br 
+Salvador | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br
 
 ### Pernambuco
 Cidade | Empresa | Site | Contato
@@ -75,6 +76,7 @@ São Paulo | Loja Integrada | [http://www.lojaintegrada.com.br/](http://www.loja
 São Paulo | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | +55 (11) 3849-0054
 São Paulo | Hacklab/ | [http://hacklab.com.br/](http://hacklab.com.br/) | +55 (11) 2892-0122
 São Paulo | Simples Consultoria/ | [http://www.simplesconsultoria.com.br/](http://www.simplesconsultoria.com.br/) | +55 (11) 3898-2121
+São Paulo | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 Ribeirão Preto | M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | + 55 (16) 3289 9851 - contato@m2iconsultoria.com
 Ribeirão Preto | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | +55 (16) 3514-9966 - ti@okubomercantil.com.br
 
