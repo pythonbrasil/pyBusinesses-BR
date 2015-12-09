@@ -5,6 +5,7 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
 Manaus | FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) |
+Manaus | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 
 ## Nordeste
 
@@ -14,7 +15,7 @@ Cidade | Empresa | Site | Contato
 Salvador | JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) |
 Salvador | EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/) |
 Salvador | Potelo | [http://www.potelo.com.br](http://www.potelo.com.br) |
-Salvador | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br 
+Salvador | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br
 
 ### Pernambuco
 Cidade | Empresa | Site | Contato
