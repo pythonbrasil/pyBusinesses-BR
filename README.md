@@ -79,6 +79,7 @@ São Paulo | Simples Consultoria/ | [http://www.simplesconsultoria.com.br/](http
 São Paulo | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 Ribeirão Preto | M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | + 55 (16) 3289 9851 - contato@m2iconsultoria.com
 Ribeirão Preto | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | +55 (16) 3514-9966 - ti@okubomercantil.com.br
+Ribeirão Preto | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | +55 (16) 3235-3209 - contato@iclinic.com.br
 
 ### Rio de Janeiro
 Cidade | Empresa | Site | Contato
