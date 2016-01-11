@@ -9,6 +9,11 @@ Manaus | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.
 
 ## Nordeste
 
+### Ceará
+Cidade | Empresa | Site | Contato
+ --- | --- | --- | ---
+Fortaleza | Funceme | [http://www.funceme.br](http://www.funceme.br) | funceme@funceme.br
+
 ### Bahia
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
