@@ -72,6 +72,7 @@ Catanduva | Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br)
 Franca | Enter&Plug Sistemas | [http://enterplug.com.br](http://enterplug.com.br) | +55 16 3721-4283 / 11 4063-1864
 Indaiatuba | GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
 São Carlos | Stoq | [http://stoq.com.br](http://stoq.com.br)  | hireme@async.com.br
+São Paulo | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 São Paulo | Onyo (trabalhamos remotamente)    | [http://onyo.com](http://onyo.com) | +55 (21) 3942-2102
 São Paulo | filmow.com | [http://filmow.com](http://filmow.com)  | +55 (11) 3512-6600
 São Paulo | LegalNote | [http://legalnote.com.br](http://legalnote.com.br)  | +55 (11) 3262-3122
@@ -92,10 +93,12 @@ Ribeirão Preto | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) |
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
 Niterói | WPensar | [http://wpensar.com.br/](http://wpensar.com.br/) | gustavo.morada@wpensar.com.br
+Rio de Janeiro | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 Rio de Janeiro | EloGroup | [http://elogroup.com.br/](http://elogroup.com.br/) | bernardo.fontes@elogroup.com.br
 Rio de Janeiro | Storm Security | [http://stormsec.com.br/](htto://stormsec.com.br/) | karina.garcia@stormsec.com.br
 Rio de Janeiro | Orama | [http://www.orama.com.br/](http://www.orama.com.br/) | anderson.carneiro@orama.com.br
 Rio de Janeiro | Hotel Urbano | [http://www.hotelurbano.com/](http://www.hotelurbano.com/) | bruno.moura@hotelurbano.com.br
+Rio de Janeiro | Globosat | [http://globosat.tv.br](http://globosat.tv.br) | rh@globosat.com.br
 Rio de Janeiro | Globo.com | [http://www.globo.com/](http://www.globo.com/) | bernardo@corp.globo.com
 Rio de Janeiro | Parafernalia Interativa | [http://parafernalia.net.br/](http://parafernalia.net.br/) | luiz.senna@parafernalia.net.br
 Rio de Janeiro | Finxi | [http://finxi.com.br/](http://finxi.com.br/) | victor.sousa@finxi.com.br
