@@ -71,8 +71,8 @@ Campinas | Instituto de Pesquisas Eldorado | [http://www.eldorado.org.br](http:/
 Catanduva | Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br) | +55 17 3524-2971
 Franca | Enter&Plug Sistemas | [http://enterplug.com.br](http://enterplug.com.br) | +55 16 3721-4283 / 11 4063-1864
 Indaiatuba | GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
-São Paulo | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 São Carlos | Stoq | [http://stoq.com.br](http://stoq.com.br)  | hireme@async.com.br
+São Paulo | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 São Paulo | Onyo (trabalhamos remotamente)    | [http://onyo.com](http://onyo.com) | +55 (21) 3942-2102
 São Paulo | filmow.com | [http://filmow.com](http://filmow.com)  | +55 (11) 3512-6600
 São Paulo | LegalNote | [http://legalnote.com.br](http://legalnote.com.br)  | +55 (11) 3262-3122
