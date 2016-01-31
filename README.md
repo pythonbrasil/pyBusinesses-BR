@@ -13,6 +13,7 @@ Manaus | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
 Fortaleza | Funceme | [http://www.funceme.br](http://www.funceme.br) | funceme@funceme.br
+Fortaleza | Morphus | [http://www.morphus.com.br/](http://www.morphus.com.br/) | contato@morphus.com.br
 
 ### Bahia
 Cidade | Empresa | Site | Contato
