@@ -14,6 +14,7 @@ Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
 Fortaleza | Funceme | [http://www.funceme.br](http://www.funceme.br) | funceme@funceme.br
 Fortaleza | Morphus | [http://www.morphus.com.br/](http://www.morphus.com.br/) | contato@morphus.com.br
+Fortaleza | Deway | [http://www.deway.com.br](http://www.deway.com.br) | contato@deway.com.br
 
 ### Bahia
 Cidade | Empresa | Site | Contato
