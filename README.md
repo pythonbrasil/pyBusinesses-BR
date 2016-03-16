@@ -110,6 +110,12 @@ Rio de Janeiro | Hadrons | [http://hadrons.io/](http://hadrons.io/) | contact@ha
 
 ## Sul
 
+### Paraná
+
+Cidade | Empresa | Site | Contato
+--- | --- | --- | ---
+Curitiba | Olist | [https://olist.com](https://olist.com) | br@olist.com
+
 ### Rio Grande do Sul
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
