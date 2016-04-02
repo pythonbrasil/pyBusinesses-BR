@@ -63,6 +63,7 @@ Belo Horizonte | Intip    | [http://www.intip.com.br/](http://www.intip.com.br/)
 Belo Horizonte | Méliuz    | [https://www.meliuz.com.br/](https://www.meliuz.com.br/) | [https://meliuz.recruiterbox.com/jobs](https://meliuz.recruiterbox.com/jobs)
 Belo Horizonte | Sílex Sistemas    | [http://www.silexsistemas.com.br/](http://www.silexsistemas.com.br/) | +55 31 3273-1530
 Belo Horizonte | StudioSol    | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | +55 31 2127-2540
+Belo Horizonte | BoxCoder     | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
 Uberlândia | Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | +55 34 3231-9858
 
 ### São Paulo
