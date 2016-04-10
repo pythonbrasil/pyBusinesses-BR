@@ -33,6 +33,7 @@ Recife | PyCursos | [http://pycursos.com](http://pycursos.com) | admin@pycursos.
 Recife | Dantas Engenharia de Avaliações | [http://www.dantasengenharia.com/](http://www.dantasengenharia.com/) | suporte@dantas.eng.br
 Recife | Genomika Diagnósticos | [http://genomika.com.br](http://genomika.com.br) | bioinfo@genomika.com.br
 Recife | GrupoCITEC | [https://grupocitec.com](https://grupocitec.com) | info@grupocitec.com
+Recife | Intelivix | [http://intelivix.com/](http://intelivix.com/) | contato@intelivix.com
 
 ### Rio Grande do Norte
 Cidade | Empresa | Site | Contato
