@@ -75,6 +75,9 @@ Campinas | Instituto de Pesquisas Eldorado | [http://www.eldorado.org.br](http:/
 Catanduva | Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br) | +55 17 3524-2971
 Franca | Enter&Plug Sistemas | [http://enterplug.com.br](http://enterplug.com.br) | +55 16 3721-4283 / 11 4063-1864
 Indaiatuba | GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
+Ribeirão Preto | M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | + 55 (16) 3289 9851 - contato@m2iconsultoria.com
+Ribeirão Preto | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | +55 (16) 3514-9966 - ti@okubomercantil.com.br
+Ribeirão Preto | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | +55 (16) 3235-3209 - contato@iclinic.com.br
 São Carlos | Stoq | [http://stoq.com.br](http://stoq.com.br)  | hireme@async.com.br
 São Paulo | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 São Paulo | Onyo (trabalhamos remotamente)    | [http://onyo.com](http://onyo.com) | +55 (21) 3942-2102
@@ -89,9 +92,6 @@ São Paulo | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgr
 São Paulo | Hacklab/ | [http://hacklab.com.br/](http://hacklab.com.br/) | +55 (11) 2892-0122
 São Paulo | Simples Consultoria/ | [http://www.simplesconsultoria.com.br/](http://www.simplesconsultoria.com.br/) | +55 (11) 3898-2121
 São Paulo | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
-Ribeirão Preto | M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | + 55 (16) 3289 9851 - contato@m2iconsultoria.com
-Ribeirão Preto | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | +55 (16) 3514-9966 - ti@okubomercantil.com.br
-Ribeirão Preto | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | +55 (16) 3235-3209 - contato@iclinic.com.br
 
 ### Rio de Janeiro
 Cidade | Empresa | Site | Contato
