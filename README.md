@@ -132,6 +132,7 @@ Santa Maria | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.i
 ### Santa Catarina
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
+Florianópolis | Smarket Solutinos | [http://www.smarketsolutions.com.br/](http://www.smarketsolutions.com.br/) | +55 48 3307 1625
 Florianópolis | Axado | [http://www.axado.com.br](http://www.axado.com.br) | +55 48 3047 4704
 Florianópolis | Cianet | [http://www.cianet.ind.br/](http://www.cianet.ind.br/) | +55 48 2106 0101
 Florianópolis | D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
