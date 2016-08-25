@@ -66,6 +66,8 @@ Belo Horizonte | Sílex Sistemas    | [http://www.silexsistemas.com.br/](http://
 Belo Horizonte | StudioSol    | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | +55 31 2127-2540
 Belo Horizonte | BoxCoder     | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
 Uberlândia | Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | +55 34 3231-9858
+Itajubá | KMEE    | [http://kmee.com.br](http://kmee.com.br) | contato at kmee com br
+
 
 ### São Paulo
 Cidade | Empresa | Site | Contato
