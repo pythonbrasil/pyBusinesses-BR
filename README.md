@@ -139,7 +139,7 @@ Florianópolis | D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.
 Florianópolis | eCentry | [http://ecentry.com ](http://ecentry.com) | +55 48 3031 6200
 Florianópolis | M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 Florianópolis | Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
-Florianópolis | Catarina Touch | [www.catarinatouch.com](www.catarinatouch.com) | +55 48 3207 8527
+Florianópolis | Catarina Touch | [www.catarinatouch.com](http://www.catarinatouch.com) | +55 48 3207 8527
 Florianópolis | Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 3232 3200
 Florianópolis | Contentools | [http://contentools.com ](http://contentools.com) |
 Florianópolis | SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
