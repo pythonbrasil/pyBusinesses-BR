@@ -38,7 +38,7 @@ Recife | Intelivix | [http://intelivix.com/](http://intelivix.com/) | contato@in
 ### Rio Grande do Norte
 Cidade | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
- Natal | Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | +55 11 4003-3833 | 
+ Natal | Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | +55 11 4003-3833 | [https://www.evolux.net.br/vagas/] (https://www.evolux.net.br/vagas/)
  Natal | IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | +55 84 4005-0772 | 
 ## Centro-Oeste
 
