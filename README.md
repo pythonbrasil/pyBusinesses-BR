@@ -133,18 +133,18 @@ Santa Maria | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.i
 ### Santa Catarina
 Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
-Florianópolis | Smarket Solutinos | [http://www.smarketsolutions.com.br/](http://www.smarketsolutions.com.br/) | +55 48 3307 1625
 Florianópolis | Axado | [http://www.axado.com.br](http://www.axado.com.br) | +55 48 3047 4704
+Florianópolis | Catarina Touch | [www.catarinatouch.com](http://www.catarinatouch.com) | +55 48 3207 8527
+Florianópolis | Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 3232 3200
 Florianópolis | Cheesecake Labs | [https://www.ckl.io/](https://www.ckl.io/) | +55 (48) 3206-5246
 Florianópolis | Cianet | [http://www.cianet.ind.br/](http://www.cianet.ind.br/) | +55 48 2106 0101
+Florianópolis | Contentools | [http://contentools.com ](http://contentools.com) |
 Florianópolis | D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
 Florianópolis | eCentry | [http://ecentry.com ](http://ecentry.com) | +55 48 3031 6200
 Florianópolis | M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 Florianópolis | Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
-Florianópolis | Catarina Touch | [www.catarinatouch.com](http://www.catarinatouch.com) | +55 48 3207 8527
-Florianópolis | Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 3232 3200
-Florianópolis | Contentools | [http://contentools.com ](http://contentools.com) |
 Florianópolis | SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
+Florianópolis | Smarket Solutinos | [http://www.smarketsolutions.com.br/](http://www.smarketsolutions.com.br/) | +55 48 3307 1625
 Florianópolis | Softplan | [https://www.softplan.com.br ](https://www.softplan.com.br) | + 55 48 3027 8000
 Florianópolis | ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
 Joinville | Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
