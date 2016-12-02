@@ -1,10 +1,16 @@
 # pyBusinesses-BR
 Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 
+## Ranking
+Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de programação Python no Brasil. **Os dados são baseados apenas nas informações contidas nesse repositório**.
+
+![Ranking](ranking/ranking.png "Ranking")
+
 ## Norte
 
 ### Amazonas
 #### Manaus
+Total: 2
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) |
@@ -14,6 +20,7 @@ Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 
 ### Ceará
 #### Fortaleza
+Total: 3
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Funceme | [http://www.funceme.br](http://www.funceme.br) | funceme@funceme.br
@@ -22,6 +29,7 @@ Deway | [http://www.deway.com.br](http://www.deway.com.br) | contato@deway.com.b
 
 ### Bahia
 #### Salvador
+Total: 4
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) |
@@ -31,6 +39,7 @@ Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.
 
 ### Pernambuco
 #### Recife
+Total: 6
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
@@ -43,6 +52,7 @@ Intelivix | [http://intelivix.com/](http://intelivix.com/) | contato@intelivix.c
 
 ### Rio Grande do Norte
 #### Natal
+Total: 2
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | +55 11 4003-3833
@@ -52,12 +62,14 @@ IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | +55 84 4005-0772
 
 ### Mato Grosso
 #### Alta Floresta
+Total: 2
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Ello Tecnologia      | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br)    | clayton@ellotecnologia.net.br
 
 ### Distrito Federal
 #### Brasília
+Total: 4
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Configr    | [https://configr.com/](https://configr.com/)     | suporte@configr.com
@@ -69,6 +81,7 @@ Maption    | [http://maption.com.br/](http://maption.com.br/) | contact@maption.
 
 ### Minas Gerais
 #### Belo Horizonte
+Total: 6
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 2XT    | [http://www.2xt.com.br/](http://www.2xt.com.br/) | +55 31 3292-2120
@@ -79,11 +92,13 @@ StudioSol    | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | +5
 BoxCoder     | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
 
 #### Uberlândia
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Sigma Geosistemas    | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | +55 34 3231-9858
 
 #### Itajubá
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 KMEE    | [http://kmee.com.br](http://kmee.com.br) | contato at kmee com br
@@ -91,27 +106,32 @@ KMEE    | [http://kmee.com.br](http://kmee.com.br) | contato at kmee com br
 
 ### São Paulo
 #### Campinas
+Total: 2
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722
 Instituto de Pesquisas Eldorado | [http://www.eldorado.org.br](http://www.eldorado.org.br) | +55 19 3757-3000
 
 #### Catanduva
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br) | +55 17 3524-2971
 
 #### Franca
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Enter&Plug Sistemas | [http://enterplug.com.br](http://enterplug.com.br) | +55 16 3721-4283 / 11 4063-1864
 
 #### Indaiatuba
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
 
 #### Ribeirão Preto
+Total: 3
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | + 55 (16) 3289 9851 - contato@m2iconsultoria.com
@@ -119,11 +139,13 @@ Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.
 iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | +55 (16) 3235-3209 - contato@iclinic.com.br
 
 #### São Carlos
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Stoq | [http://stoq.com.br](http://stoq.com.br)  | hireme@async.com.br
 
 #### São Paulo
+Total: 13
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
@@ -142,11 +164,13 @@ Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 
 ### Rio de Janeiro
 #### Niterói
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 WPensar | [http://wpensar.com.br/](http://wpensar.com.br/) | gustavo.morada@wpensar.com.br
 
 #### Rio de Janeiro
+Total: 12
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
@@ -166,17 +190,20 @@ Hadrons | [http://hadrons.io/](http://hadrons.io/) | contact@hadrons.io
 
 ### Paraná
 #### Curitiba
+Total: 1
 Empresa | Site | Contato | Vagas
 --- | --- | --- | ---
 Olist | [https://olist.com](https://olist.com) | br@olist.com
 
 ### Rio Grande do Sul
 #### Frederico Westphalen
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Layer| [http://layerdesign.com.br/](http://layerdesign.com.br/) | contato@layerdesign.com.br
 
 #### Porto Alegre
+Total: 3
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Azion Technologies | [http://www.azion.com/](http://www.azion.com/) | marcelo.mallmann@azion.com
@@ -184,12 +211,14 @@ Globo.com | [http://www.globo.com/](http://www.globo.com/) |
 Thoughtworks | [http://www.thoughtworks.com/](http://www.thoughtworks.com/) |
 
 #### Santa Maria
+Total: 1
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info
 
 ### Santa Catarina
 #### Florianópolis
+Total: 15
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Axado | [http://www.axado.com.br](http://www.axado.com.br) | +55 48 3047 4704
@@ -209,6 +238,7 @@ Stormtech | [http://www.stormtech.com.br ](http://www.stormtech.com.br) | + 55 4
 ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
 
 #### Joinville
+Total: 2
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
