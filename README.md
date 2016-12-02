@@ -135,6 +135,7 @@ Cidade | Empresa | Site | Contato
  --- | --- | --- | ---
 Florianópolis | Smarket Solutinos | [http://www.smarketsolutions.com.br/](http://www.smarketsolutions.com.br/) | +55 48 3307 1625
 Florianópolis | Axado | [http://www.axado.com.br](http://www.axado.com.br) | +55 48 3047 4704
+Florianópolis | Cheesecake Labs | [https://www.ckl.io/](https://www.ckl.io/) | +55 (48) 3206-5246
 Florianópolis | Cianet | [http://www.cianet.ind.br/](http://www.cianet.ind.br/) | +55 48 2106 0101
 Florianópolis | D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
 Florianópolis | eCentry | [http://ecentry.com ](http://ecentry.com) | +55 48 3031 6200
