@@ -3,7 +3,7 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 
 ## Norte
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Manaus | FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) | | 
 Manaus | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com | 
 
@@ -11,14 +11,14 @@ Manaus | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.
 
 ### Ceará
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Fortaleza | Funceme | [http://www.funceme.br](http://www.funceme.br) | funceme@funceme.br | 
 Fortaleza | Morphus | [http://www.morphus.com.br/](http://www.morphus.com.br/) | contato@morphus.com.br | 
 Fortaleza | Deway | [http://www.deway.com.br](http://www.deway.com.br) | contato@deway.com.br | 
 
 ### Bahia
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Salvador | JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br) | | 
 Salvador | EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/) | | 
 Salvador | Potelo | [http://www.potelo.com.br](http://www.potelo.com.br) | | 
@@ -26,7 +26,7 @@ Salvador | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://
 
 ### Pernambuco
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Recife | Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br | 
 Recife | Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br | 
 Recife | PyCursos | [http://pycursos.com](http://pycursos.com) | admin@pycursos.com | 
@@ -37,19 +37,19 @@ Recife | Intelivix | [http://intelivix.com/](http://intelivix.com/) | contato@in
 
 ### Rio Grande do Norte
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
  Natal | Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | +55 11 4003-3833 | 
  Natal | IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | +55 84 4005-0772 | 
 ## Centro-Oeste
 
 ### Mato Grosso
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Alta Floresta | Ello Tecnologia      | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br)    | clayton@ellotecnologia.net.br | 
 
 ### Distrito Federal
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Brasília | Configr    | [https://configr.com/](https://configr.com/)     | suporte@configr.com | 
 Brasília | Hex Gis    | [http://www.hexgis.com/](http://www.hexgis.com/) | +55 61 3447-6213 | 
 Brasília | Liberiun    | [http://www.liberiun.com/](http://www.liberiun.com/) | +55 61 3041-8172 | 
@@ -59,7 +59,7 @@ Brasília | Maption    | [http://maption.com.br/](http://maption.com.br/) | cont
 
 ### Minas Gerais
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Belo Horizonte | 2XT    | [http://www.2xt.com.br/](http://www.2xt.com.br/) | +55 31 3292-2120 | 
 Belo Horizonte | Intip    | [http://www.intip.com.br/](http://www.intip.com.br/) | +55 31 2526-2623 | 
 Belo Horizonte | Méliuz    | [https://www.meliuz.com.br/](https://www.meliuz.com.br/) | [https://meliuz.recruiterbox.com/jobs](https://meliuz.recruiterbox.com/jobs) | 
@@ -72,7 +72,7 @@ Itajubá | KMEE    | [http://kmee.com.br](http://kmee.com.br) | contato at kmee 
 
 ### São Paulo
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Campinas | Dextra | [http://dextra.com.br](http://dextra.com.br) | +55 19 3256-6722 | 
 Campinas | Instituto de Pesquisas Eldorado | [http://www.eldorado.org.br](http://www.eldorado.org.br) | +55 19 3757-3000 | 
 Catanduva | Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br) | +55 17 3524-2971 | 
@@ -98,7 +98,7 @@ São Paulo | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@ne
 
 ### Rio de Janeiro
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Niterói | WPensar | [http://wpensar.com.br/](http://wpensar.com.br/) | gustavo.morada@wpensar.com.br | 
 Rio de Janeiro | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br | 
 Rio de Janeiro | EloGroup | [http://elogroup.com.br/](http://elogroup.com.br/) | bernardo.fontes@elogroup.com.br | 
@@ -118,12 +118,12 @@ Rio de Janeiro | Hadrons | [http://hadrons.io/](http://hadrons.io/) | contact@ha
 ### Paraná
 
 Cidade | Empresa | Site | Contato | Vagas
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 Curitiba | Olist | [https://olist.com](https://olist.com) | br@olist.com | 
 
 ### Rio Grande do Sul
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Frederico Westphalen | Layer| [http://layerdesign.com.br/](http://layerdesign.com.br/) | contato@layerdesign.com.br | 
 Porto Alegre | Azion Technologies | [http://www.azion.com/](http://www.azion.com/) | marcelo.mallmann@azion.com | 
 Porto Alegre | Globo.com | [http://www.globo.com/](http://www.globo.com/) | | 
@@ -132,7 +132,7 @@ Santa Maria | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.i
 
 ### Santa Catarina
 Cidade | Empresa | Site | Contato | Vagas
- --- | --- | --- | ---
+ --- | --- | --- | --- | ---
 Florianópolis | Axado | [http://www.axado.com.br](http://www.axado.com.br) | +55 48 3047 4704 | 
 Florianópolis | Catarina Touch | [www.catarinatouch.com](http://www.catarinatouch.com) | +55 48 3207 8527 | 
 Florianópolis | Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 3232 3200 | 
