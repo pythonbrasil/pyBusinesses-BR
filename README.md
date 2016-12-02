@@ -144,6 +144,7 @@ Florianópolis | Catarina Touch | [www.catarinatouch.com](http://www.catarinatou
 Florianópolis | Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 3232 3200
 Florianópolis | Contentools | [http://contentools.com ](http://contentools.com) |
 Florianópolis | SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
+Florianópolis | Softplan | [https://www.softplan.com.br ](https://www.softplan.com.br) | + 55 48 3027 8000
 Florianópolis | ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
 Joinville | Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
 Joinville | iTFLEX Tecnologia | [https://www.itflex.com.br/](https://www.itflex.com.br/) | contato@itflex.com.br
