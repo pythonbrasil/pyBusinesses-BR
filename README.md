@@ -146,6 +146,7 @@ Florianópolis | Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.ne
 Florianópolis | SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
 Florianópolis | Smarket Solutinos | [http://www.smarketsolutions.com.br/](http://www.smarketsolutions.com.br/) | +55 48 3307 1625
 Florianópolis | Softplan | [https://www.softplan.com.br ](https://www.softplan.com.br) | + 55 48 3027 8000
+Florianópolis | Stormtech | [http://www.stormtech.com.br ](http://www.stormtech.com.br) | + 55 48 3207 6493 - jeronimo@stormtech.com.br
 Florianópolis | ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
 Joinville | Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
 Joinville | iTFLEX Tecnologia | [https://www.itflex.com.br/](https://www.itflex.com.br/) | contato@itflex.com.br
