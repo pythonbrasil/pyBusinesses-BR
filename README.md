@@ -256,12 +256,12 @@ eCentry | [http://ecentry.com ](http://ecentry.com) | +55 48 3031 6200
 M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 Myreks | [http://www.myreks.com](http://www.myreks.com) | carrers@myreks.com
 Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
+ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
 SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
 Smarket Solutinos | [http://www.smarketsolutions.com.br/](http://www.smarketsolutions.com.br/) | +55 48 3307 1625
 Softplan | [https://www.softplan.com.br ](https://www.softplan.com.br) | + 55 48 3027 8000
 Stormtech | [http://www.stormtech.com.br ](http://www.stormtech.com.br) | + 55 48 3207 6493 - jeronimo@stormtech.com.br
 Trustcode | [http://www.trustcode.com.br ](http://www.trustcode.com.br) | + 55 48 3771-0507 - gestao@trustcode.com.br
-ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
 
 #### Joinville
 Total: 2
