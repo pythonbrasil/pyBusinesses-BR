@@ -213,7 +213,7 @@ Total: 1
 
 Empresa | Site | Contato | Vagas
 --- | --- | --- | ---
-Olist | [https://olist.com](https://olist.com) | br@olist.com
+Olist | [https://olist.com](https://olist.com) | br@olist.com | https://bit.ly/olist-webdev
 
 ### Rio Grande do Sul
 #### Frederico Westphalen
