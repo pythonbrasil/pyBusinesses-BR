@@ -152,6 +152,7 @@ Empresa | Site | Contato | Vagas
 M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | + 55 (16) 3289 9851 - contato@m2iconsultoria.com
 Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | +55 (16) 3514-9966 - ti@okubomercantil.com.br
 iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | +55 (16) 3235-3209 - contato@iclinic.com.br
+ezVoice | [http://www.ezvoice.com.br/](http://www.ezvoice.com.br/) | +55 (16) 3515-5800 - contato@ezvoice.com.br
 
 #### São Carlos
 Total: 1
