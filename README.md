@@ -62,6 +62,7 @@ Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | +55 11 4003-3833
 IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | +55 84 4005-0772
+168 horas | [http://168h.com.br](http://168h.com.br) | +55 84 8712-4408
 
 ## Centro-Oeste
 
