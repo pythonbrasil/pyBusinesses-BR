@@ -266,9 +266,11 @@ Stormtech | [http://www.stormtech.com.br ](http://www.stormtech.com.br) | + 55 4
 Trustcode | [http://www.trustcode.com.br ](http://www.trustcode.com.br) | + 55 48 3771-0507 - gestao@trustcode.com.br
 
 #### Joinville
-Total: 2
+Total: 4
 
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
-Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
 iTFLEX Tecnologia | [https://www.itflex.com.br/](https://www.itflex.com.br/) | contato@itflex.com.br
+Magrathea Labs | [http://www.magrathealabs.com.br](http://www.magrathealabs.com.br) | contato@magrathealabs.com
+Meus Pedidos | [https://meuspedidos.com.br/](https://meuspedidos.com.br) | contato@meuspedidos.com.br
+Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
