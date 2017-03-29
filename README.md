@@ -146,7 +146,7 @@ Empresa | Site | Contato | Vagas
 GAS Tecnologia       | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
 
 #### Ribeirão Preto
-Total: 3
+Total: 5
 
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
