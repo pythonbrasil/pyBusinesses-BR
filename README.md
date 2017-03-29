@@ -154,6 +154,7 @@ M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsult
 Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | +55 (16) 3514-9966 - ti@okubomercantil.com.br
 iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | +55 (16) 3235-3209 - contato@iclinic.com.br
 ezVoice | [http://www.ezvoice.com.br/](http://www.ezvoice.com.br/) | +55 (16) 3515-5800 - contato@ezvoice.com.br
+Convertize E-Commerce | [http://www.convertize.com.br/](http://www.convertize.com.br/) | +55 (16) 3075-7676 - contato@convertize.com.br
 
 #### São Carlos
 Total: 1
