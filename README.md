@@ -89,7 +89,7 @@ Maption    | [http://maption.com.br/](http://maption.com.br/) | contact@maption.
 
 ### Minas Gerais
 #### Belo Horizonte
-Total: 6
+Total: 7
 
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
@@ -99,6 +99,7 @@ Méliuz    | [https://www.meliuz.com.br/](https://www.meliuz.com.br/) | [https:/
 Sílex Sistemas    | [http://www.silexsistemas.com.br/](http://www.silexsistemas.com.br/) | +55 31 3273-1530
 StudioSol    | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | +55 31 2127-2540
 BoxCoder     | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
+ThoughtWorks     | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 
 #### Uberlândia
 Total: 1
