@@ -276,3 +276,10 @@ iTFLEX Tecnologia | [https://www.itflex.com.br/](https://www.itflex.com.br/) | c
 Magrathea Labs | [http://www.magrathealabs.com.br](http://www.magrathealabs.com.br) | contato@magrathealabs.com
 Meus Pedidos | [https://meuspedidos.com.br/](https://meuspedidos.com.br) | contato@meuspedidos.com.br
 Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
+
+#### São José
+Total: 1
+
+Empresa | Site | Contato | Vagas
+ --- | --- | --- | ---
+Intelbras | [http://www.intelbras.com.br/](http://www.intelbras.com.br/) | http://www.intelbras.com.br/fale-conosco | [Vagas aqui](http://trabalheconosco.intelbras.com.br/trabalhe-conosco-vagas.php)
