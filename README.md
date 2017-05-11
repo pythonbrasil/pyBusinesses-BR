@@ -99,7 +99,7 @@ Méliuz    | [https://www.meliuz.com.br/](https://www.meliuz.com.br/) | [https:/
 Sílex Sistemas    | [http://www.silexsistemas.com.br/](http://www.silexsistemas.com.br/) | +55 31 3273-1530
 StudioSol    | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | +55 31 2127-2540
 BoxCoder     | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
-ThoughtWorks     | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
+ThoughtWorks     | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 
 #### Uberlândia
 Total: 1
@@ -242,7 +242,7 @@ Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Azion Technologies | [http://www.azion.com/](http://www.azion.com/) | marcelo.mallmann@azion.com
 Globo.com | [http://www.globo.com/](http://www.globo.com/) |
-Thoughtworks | [http://www.thoughtworks.com/](http://www.thoughtworks.com/) |
+ThoughtWorks     | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 
 #### Santa Maria
 Total: 1
