@@ -163,6 +163,14 @@ Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
 Stoq | [http://stoq.com.br](http://stoq.com.br)  | hireme@async.com.br
 
+
+#### São José dos Campos
+Total: 1
+
+Empresa | Site | Contato | Vagas
+ --- | --- | --- | ---
+Necto Systems | [http://nectosystems.com.br/](http://nectosystems.com.br/) | http://nectosystems.com.br/contato/ 
+
 #### São Paulo
 Total: 13
 
