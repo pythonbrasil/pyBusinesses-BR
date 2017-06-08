@@ -253,7 +253,7 @@ ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato
 
 ### Santa Catarina
 #### Florianópolis
-Total: 18
+Total: 19
 
 Empresa | Site | Contato | Vagas
  --- | --- | --- | ---
@@ -269,6 +269,7 @@ eCentry | [http://ecentry.com ](http://ecentry.com) | +55 48 3031 6200
 M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 Myreks | [http://www.myreks.com](http://www.myreks.com) | carrers@myreks.com
 Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
+Nexxera | [http://www.nexxera.com](http://www.nexxera.com) | +55 48 2106 5698
 ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | +55 48 3209 1609
 SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | + 55 48 3028 7462
 Smarket Solutinos | [http://www.smarketsolutions.com.br/](http://www.smarketsolutions.com.br/) | +55 48 3307 1625
