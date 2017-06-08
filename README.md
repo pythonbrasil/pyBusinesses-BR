@@ -1,14 +1,27 @@
 # pyBusinesses-BR
 Esse repositório contém informações de contato das empresas de tecnologia do Brasil que utilizam a linguagem de programação Python.
 
-## Ranking
+# Ranking
 Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de programação Python no Brasil. **Os dados são baseados apenas nas informações contidas nesse repositório**.
 
-![Ranking](ranking/ranking.png "Ranking")
+<p align="center">
+  <img src="ranking/ranking_cities.png">
+</p>
+
+<p align="center">
+  <img src="ranking/ranking_states.png">
+</p>
+
+<p align="center">
+  <img src="ranking/ranking_regions.png">
+</p>
 
 ## Norte
+Total: 2
 
 ### Amazonas
+Total: 2
+
 #### Manaus
 Total: 2
 
@@ -18,8 +31,11 @@ FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) |
 Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 
 ## Nordeste
+Total: 15
 
 ### Ceará
+Total: 3
+
 #### Fortaleza
 Total: 3
 
@@ -30,6 +46,8 @@ Morphus | [http://www.morphus.com.br/](http://www.morphus.com.br/) | contato@mor
 Deway | [http://www.deway.com.br](http://www.deway.com.br) | contato@deway.com.br
 
 ### Bahia
+Total: 4
+
 #### Salvador
 Total: 4
 
@@ -41,6 +59,8 @@ Potelo | [http://www.potelo.com.br](http://www.potelo.com.br) |
 Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br
 
 ### Pernambuco
+Total: 6
+
 #### Recife
 Total: 6
 
@@ -55,6 +75,8 @@ GrupoCITEC | [https://grupocitec.com](https://grupocitec.com) | info@grupocitec.
 Intelivix | [http://intelivix.com/](http://intelivix.com/) | contato@intelivix.com
 
 ### Rio Grande do Norte
+Total: 2
+
 #### Natal
 Total: 2
 
@@ -65,8 +87,11 @@ IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | +55 84 4005-0772
 168 horas | [http://168h.com.br](http://168h.com.br) | +55 84 8712-4408
 
 ## Centro-Oeste
+Total: 6
 
 ### Mato Grosso
+Total: 2
+
 #### Alta Floresta
 Total: 2
 
@@ -75,6 +100,8 @@ Empresa | Site | Contato | Vagas
 Ello Tecnologia      | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br)    | clayton@ellotecnologia.net.br
 
 ### Distrito Federal
+Total: 4
+
 #### Brasília
 Total: 4
 
@@ -86,8 +113,11 @@ Liberiun    | [http://www.liberiun.com/](http://www.liberiun.com/) | +55 61 3041
 Maption    | [http://maption.com.br/](http://maption.com.br/) | contact@maption.com.br
 
 ## Sudeste
+Total: 47
 
 ### Minas Gerais
+Total: 9
+
 #### Belo Horizonte
 Total: 7
 
@@ -117,6 +147,8 @@ KMEE    | [http://kmee.com.br](http://kmee.com.br) | contato at kmee com br
 
 
 ### São Paulo
+Total: 25
+
 #### Campinas
 Total: 2
 
@@ -192,6 +224,8 @@ Simples Consultoria/ | [http://www.simplesconsultoria.com.br/](http://www.simple
 Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 
 ### Rio de Janeiro
+Total: 13
+
 #### Niterói
 Total: 1
 
@@ -218,8 +252,11 @@ Stone | [http://www.stone.com.br/](http://www.stone.com.br/) | rportugal@stone.c
 Hadrons | [http://hadrons.io/](http://hadrons.io/) | contact@hadrons.io
 
 ## Sul
+Total: 30
 
 ### Paraná
+Total: 1
+
 #### Curitiba
 Total: 1
 
@@ -228,6 +265,8 @@ Empresa | Site | Contato | Vagas
 Olist | [https://olist.com](https://olist.com) | br@olist.com | https://bit.ly/olist-webdev
 
 ### Rio Grande do Sul
+Total: 5
+
 #### Frederico Westphalen
 Total: 1
 
@@ -252,6 +291,8 @@ Empresa | Site | Contato | Vagas
 ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info
 
 ### Santa Catarina
+Total: 24
+
 #### Florianópolis
 Total: 19
 
