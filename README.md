@@ -8,7 +8,7 @@ Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de p
   <img src="ranking/ranking_cities.png">
 </p>
 
-<p align="center">
+<p align="right">
   <img src="ranking/ranking_states.png">
 </p>
 
