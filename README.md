@@ -305,7 +305,7 @@ Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | +55 48 
 Cheesecake Labs | [https://www.ckl.io/](https://www.ckl.io/) | +55 (48) 3206-5246
 Cianet | [http://www.cianet.ind.br/](http://www.cianet.ind.br/) | +55 48 2106 0101
 Cliix | [http://cliix.io](http://cliix.io) | jobs@cliix.io
-Contentools | [http://contentools.com ](http://contentools.com) |
+Contentools | [http://contentools.com ](http://contentools.com) | willian.miranda@contentools.com.br
 D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
 eCentry | [http://ecentry.com ](http://ecentry.com) | +55 48 3031 6200
 M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
