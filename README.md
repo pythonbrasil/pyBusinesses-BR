@@ -11,13 +11,10 @@ Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de p
 ![ranking-regions](ranking/ranking_regions.png)
 
 ## Norte
-Total: 2
 
 ### Amazonas
-Total: 2
 
 #### Manaus
-Total: 2
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -25,13 +22,10 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 
 ## Nordeste
-Total: 18
 
 ### Ceará
-Total: 3
 
 #### Fortaleza
-Total: 3
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -40,10 +34,8 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/morphus.png) | Morphus | [http://www.morphus.com.br/](http://www.morphus.com.br/) | contato@morphus.com.br
 
 ### Bahia
-Total: 4
 
 #### Salvador
-Total: 4
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -53,10 +45,8 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/potelo.png) | Potelo | [http://www.potelo.com.br](http://www.potelo.com.br)
 
 ### Pernambuco
-Total: 9
 
 #### Recife
-Total: 9
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -69,13 +59,10 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/vinta.png) | Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br
 ![logo](logos/3y.png) | 3Y | [http://www.3ysoftwarehouse.com.br/](http://www.3ysoftwarehouse.com.br/)
 ![logo](logos/tagi.png) | tag.i | [http://www.tagi.com.br](http://www.tagi.com.br)
-![logo](logos/tagi.png) | tag.i | [http://www.tagi.com.br](http://www.tagi.com.br)
 
 ### Rio Grande do Norte
-Total: 3
 
 #### Natal
-Total: 3
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -84,40 +71,32 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/ifrn.png) | IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | 55 84 4005-0772
 
 ## Centro-Oeste
-Total: 7
 
 ### Mato Grosso
-Total: 1
 
 #### Alta Floresta
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/ello-tecnologia.png) | Ello Tecnologia | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br) | clayton@ellotecnologia.net.br
 
 ### Mato Grosso do Sul
-Total: 2
 
-#### Campo Grande - MS
-Total: 1
+#### Campo Grande
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.com.br](http://www.avaluesistemas.com.br) | site ainda a lançar 
 
-#### Dourados - MS
-Total: 1
+#### Dourados
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/maestrus.png) | Maestrus | [https://maestrus.com/](https://maestrus.com/) | 55 (67) 4042-0306
 
 ### Distrito Federal
-Total: 5
 
 #### Brasília
-Total: 5
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -128,13 +107,10 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/serpro.png) | SERPRO | [http://www.serpro.gov.br](http://www.serpro.gov.br) | 55 61 2021-7666
 
 ## Sudeste
-Total: 52
 
 ### Minas Gerais
-Total: 11
 
 #### Belo Horizonte
-Total: 9
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -149,14 +125,12 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 
 #### Uberlândia
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/sigma-geosistemas.png) | Sigma Geosistemas | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | 55 34 3231-9858
 
 #### Itajubá
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -164,10 +138,8 @@ Logo | Empresa | Site | Contato | Vagas
 
 
 ### São Paulo
-Total: 33
 
 #### Campinas
-Total: 2
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -175,14 +147,12 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Instituto de Pesquisas Eldorado | [http://www.eldorado.org.br](http://www.eldorado.org.br) | 55 19 3757-3000
 
 #### Catanduva
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br) | 55 17 3524-2971
 
 #### Franca
-Total: 2
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -190,21 +160,18 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/forip.png) | ForIP | [http://www.forip.com.br/](http://www.forip.com.br/) | +55 16 3702-3400
 
 #### Indaiatuba
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | GAS Tecnologia | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
 
 #### Marília
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/arcamo.png) | Arcamo | [http://www.arcamo.com.br/](http://www.arcamo.com.br/) | ettore@arcamo.com.br
 
 #### Ribeirão Preto
-Total: 6
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -216,7 +183,6 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | 55 (16) 3235-3209 - contato@iclinic.com.br
 
 #### São Carlos
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -224,49 +190,43 @@ Logo | Empresa | Site | Contato | Vagas
 
 
 #### São José dos Campos
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Necto Systems | [http://nectosystems.com.br/](http://nectosystems.com.br/) | http://nectosystems.com.br/contato/
 
 #### São Paulo
-Total: 18
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
+![logo](logos/cargobr.png) | CargoBR | [https://cargobr.com/](https://cargobr.com/) | 55 (11) 2507-4936
 ![logo](logos/default.png) | CathoLabs | [http://catholabs.com](http://catholabs.com) | [http://catho.com.br](http://catho.com.br)
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 ![logo](logos/default.png) | GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
 ![logo](logos/default.png) | Hacklab | [http://hacklab.com.br/](http://hacklab.com.br/) | 55 (11) 2892-0122
 ![logo](logos/default.png) | LegalNote | [http://legalnote.com.br](http://legalnote.com.br) | 55 (11) 3262-3122
+![logo](logos/default.png) | Loggi | [https://www.loggi.com/](https://www.loggi.com/) | [https://jobs.lever.co/loggi/](https://jobs.lever.co/loggi/)
 ![logo](logos/default.png) | Loja Integrada | [http://www.lojaintegrada.com.br/](http://www.lojaintegrada.com.br/) | suporte@lojaintegrada.com.br
+![logo](logos/default.png) | LuizaLabs | [http://luizalabs.com/](http://luizalabs.com/) | [https://luizalabs.workable.com/](https://luizalabs.workable.com/)
 ![logo](logos/default.png) | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 ![logo](logos/default.png) | Onyo (trabalhamos remotamente) | [http://onyo.com](http://onyo.com) | 55 (21) 3942-2102
-![logo](logos/pontotel.png) | PontoTel | [http://www.pontotel.com.br/](http://www.pontotel.com.br/) | dev@pontotel.com.br
 ![logo](logos/default.png) | Simples Consultoria | [http://www.simplesconsultoria.com.br/](http://www.simplesconsultoria.com.br/) | 55 (11) 3898-2121
 ![logo](logos/default.png) | Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | 55 (11) 2193-1961
 ![logo](logos/default.png) | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | 55 (11) 3849-0054
 ![logo](logos/default.png) | Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) | jose.maciel@vivadecora.com.br
 ![logo](logos/filmow.png) | filmow.com | [http://filmow.com](http://filmow.com) | 55 (11) 3512-6600
-![logo](logos/cargobr.svg) | CargoBR | [https://cargobr.com/](https://cargobr.com/) | 55 (11) 2507-4936
-![logo](logos/scielo.jpg) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
-![logo](logos/default.png) | LuizaLabs | [http://luizalabs.com/](http://luizalabs.com/) | [https://luizalabs.workable.com/](https://luizalabs.workable.com/)
-![logo](logos/default.png) | Loggi | [https://www.loggi.com/](https://www.loggi.com/) | [https://jobs.lever.co/loggi/](https://jobs.lever.co/loggi/)
-
+![logo](logos/pontotel.png) | PontoTel | [http://www.pontotel.com.br/](http://www.pontotel.com.br/) | dev@pontotel.com.br
+![logo](logos/scielo.png) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
 
 ### Rio de Janeiro
-Total: 13
 
 #### Niterói
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | WPensar | [http://wpensar.com.br/](http://wpensar.com.br/) | gustavo.morada@wpensar.com.br
 
 #### Rio de Janeiro
-Total: 12
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -284,37 +244,30 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/storm-security.png) | Storm Security | [http://stormsec.com.br/](htto://stormsec.com.br/) | karina.garcia@stormsec.com.br
 
 ## Sul
-Total: 31
 
 ### Paraná
-Total: 2
 
 #### Curitiba
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/olist.png) | Olist | [https://olist.com](https://olist.com) | br@olist.com | https://bit.ly/olist-webdev
 
 #### Apucarana
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/km-sistemas.png) | KM Sistemas | [http://www.kmsistemas.com.br/](http://www.kmsistemas.com.br/) | desenvolvimento@kmsistemas.com.br +55 (43) 3424 2300
 
 ### Rio Grande do Sul
-Total: 5
 
 #### Frederico Westphalen
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Layer| [http://layerdesign.com.br/](http://layerdesign.com.br/) | contato@layerdesign.com.br
 
 #### Porto Alegre
-Total: 3
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -323,17 +276,14 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 
 #### Santa Maria
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info
 
 ### Santa Catarina
-Total: 25
 
 #### Florianópolis
-Total: 19
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -358,7 +308,6 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | eCentry | [http://ecentry.com ](http://ecentry.com) | 55 48 3031 6200
 
 #### Joinville
-Total: 4
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -368,14 +317,12 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | iTFLEX Tecnologia | [https://www.itflex.com.br/](https://www.itflex.com.br/) | contato@itflex.com.br
 
 #### São José
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Intelbras | [http://www.intelbras.com.br/](http://www.intelbras.com.br/) | http://www.intelbras.com.br/fale-conosco | [Vagas aqui](http://trabalheconosco.intelbras.com.br/trabalhe-conosco-vagas.php)
 
 #### Blumenau
-Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
