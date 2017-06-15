@@ -80,7 +80,15 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/ello-tecnologia.png) | Ello Tecnologia | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br) | clayton@ellotecnologia.net.br
 
-#### Cidade desconhecida - MS
+### Mato Grosso do Sul
+
+#### Campo Grande - MS
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.com.br](http://www.avaluesistemas.com.br) | site ainda a lançar 
+
+#### Dourados - MS
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
