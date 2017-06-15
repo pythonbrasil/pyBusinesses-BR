@@ -82,13 +82,13 @@ Logo | Empresa | Site | Contato | Vagas
 
 ### Mato Grosso do Sul
 
-#### Campo Grande - MS
+#### Campo Grande
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.com.br](http://www.avaluesistemas.com.br) | site ainda a lançar 
 
-#### Dourados - MS
+#### Dourados
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
