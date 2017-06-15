@@ -1,44 +1,62 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from collections import Counter
-import matplotlib.pyplot as plt
+
 import re
+from collections import Counter, defaultdict
 
-with open('../README.md') as f:
-        readme = f.readlines()
-
-def getCities():
-    id_city = '#### '
-    cities = {}
-
-    for index, line in enumerate(readme):
-        if re.match(r'^\s*'+id_city, line):
-            cities[line[5:-1]] = int(readme[index+1][7:-1])
-
-    return cities
+import matplotlib.pyplot as plt
 
 
-def getStates():
-    id_state = '### '
-    states = {}
+def get_data(file):
+    region = state = city = ''
+    data = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
 
-    for index, line in enumerate(readme):
-        if re.match(r'^\s*'+id_state, line):
-            states[line[4:-1]] = int(readme[index+1][7:-1])
+    for line in file.readlines():
+        if line.startswith('## '):
+            region = line[2:].strip()
+        elif line.startswith('### '):
+            state = line[3:].strip()
+        elif line.startswith('#### '):
+            city = line[4:].strip()
+        elif line.startswith('!') and region and state and city:
+            data[region][state][city] += 1
 
-    return states
+    return data
 
-def getRegions():
-    id_region = '## '
-    regions = {}
 
-    for index, line in enumerate(readme):
-        if re.match(r'^\s*'+id_region, line):
-            regions[line[3:-1]] = int(readme[index+1][7:-1])
+def get_cities(data):
+    cities_data = defaultdict(int)
 
-    return regions
+    for states in data.values():
+        for cities in states.values():
+            cities_data.update(cities)
 
-def drawPlot(data, title, region, output, subplot):
+    return cities_data
+
+
+def get_states(data):
+    states_data = defaultdict(int)
+
+    for states in data.values():
+        for state, cities in states.items():
+            for total in cities.values():
+                states_data[state] += total
+
+    return states_data
+
+
+def get_regions(data):
+    regions_data = defaultdict(int)
+
+    for region, states in data.items():
+        for cities in states.values():
+            for total in cities.values():
+                regions_data[region] += total
+
+    return regions_data
+
+
+def draw_plot(data, title, region, output, subplot):
     xaxis = range(len(data))
     keys_freq = []
     values_freq = []
@@ -57,21 +75,29 @@ def drawPlot(data, title, region, output, subplot):
     plt.setp(labels, rotation=90)
     plt.savefig(output)
 
-def generateReportCities():
-    data = Counter(getCities())
-    drawPlot(data, "Cidades mais pythônicas", "Cidades", "ranking_cities", 211)
+
+def generate_report_cities(data):
+    data = Counter(get_cities(data))
+    draw_plot(data, "Cidades mais pythônicas", "Cidades",
+              "ranking_cities", 211)
 
 
-def generateReportStates():
-    data = Counter(getStates())
-    drawPlot(data, "Estados mais pythônicos", "Estados", "ranking_states", 221)
+def generate_report_states(data):
+    data = Counter(get_states(data))
+    draw_plot(data, "Estados mais pythônicos", "Estados",
+              "ranking_states", 221)
 
-def generateReportRegions():
-    data = Counter(getRegions())
-    drawPlot(data, "Regiões mais pythônicas", "Regiões", "ranking_regions", 232)
+
+def generate_report_regions(data):
+    data = Counter(get_regions(data))
+    draw_plot(data, "Regiões mais pythônicas", "Regiões",
+              "ranking_regions", 232)
 
 
 if __name__ == "__main__":
-    generateReportCities()
-    generateReportStates()
-    generateReportRegions()
+    with open('../README.md') as file:
+        data = get_data(file)
+
+    generate_report_cities(data)
+    generate_report_states(data)
+    generate_report_regions(data)
