@@ -100,11 +100,11 @@ Logo | Empresa | Site | Contato | Vagas
 Total: 2
 
 #### Campo Grande - MS
-Total:1
+Total: 1
+
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.br](http://www.avaluesistemas.com.br.com.br) | site ainda a lançar.
-
+![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.br](http://www.avaluesistemas.com.br.com.br) | site ainda a lançar 
 
 #### Dourados - MS
 Total: 1
