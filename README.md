@@ -84,10 +84,10 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/ifrn.png) | IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | 55 84 4005-0772
 
 ## Centro-Oeste
-Total: 6
+Total: 7
 
 ### Mato Grosso
-Total: 2
+Total: 1
 
 #### Alta Floresta
 Total: 1
@@ -96,7 +96,17 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/ello-tecnologia.png) | Ello Tecnologia | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br) | clayton@ellotecnologia.net.br
 
-#### Cidade desconhecida - MS
+### Mato Grosso do Sul
+Total: 2
+
+#### Campo Grande - MS
+Total:1
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.br](http://www.avaluesistemas.com.br.com.br) | site ainda a lançar.
+
+
+#### Dourados - MS
 Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
