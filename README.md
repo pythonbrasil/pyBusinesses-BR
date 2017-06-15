@@ -224,7 +224,7 @@ Total: 18
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/cargobr.svg) | CargoBR | [https://cargobr.com/](https://cargobr.com/) | 55 (11) 2507-4936
+![logo](logos/cargobr.png) | CargoBR | [https://cargobr.com/](https://cargobr.com/) | 55 (11) 2507-4936
 ![logo](logos/default.png) | CathoLabs | [http://catholabs.com](http://catholabs.com) | [http://catho.com.br](http://catho.com.br)
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 ![logo](logos/default.png) | GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
@@ -241,7 +241,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) | jose.maciel@vivadecora.com.br
 ![logo](logos/filmow.png) | filmow.com | [http://filmow.com](http://filmow.com) | 55 (11) 3512-6600
 ![logo](logos/pontotel.png) | PontoTel | [http://www.pontotel.com.br/](http://www.pontotel.com.br/) | dev@pontotel.com.br
-![logo](logos/scielo.jpg) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
+![logo](logos/scielo.png) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
 
 ### Rio de Janeiro
 Total: 13
