@@ -108,11 +108,11 @@ Total: 5
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/configr.svg) | Configr | [https://configr.com/](https://configr.com/) | suporte@configr.com | jobs@configr.com
+![logo](logos/configr.png) | Configr | [https://configr.com/](https://configr.com/) | suporte@configr.com | jobs@configr.com
 ![logo](logos/hex-gis.png) | Hex Gis | [http://www.hexgis.com/](http://www.hexgis.com/) | 55 61 3447-6213
-![logo](logos/liberium.png) | Liberiun | [http://www.liberiun.com/](http://www.liberiun.com/) | 55 61 3041-8172
+![logo](logos/liberiun.png) | Liberiun | [http://www.liberiun.com/](http://www.liberiun.com/) | 55 61 3041-8172
 ![logo](logos/default.png) | Maption | [http://maption.com.br/](http://maption.com.br/) | contact@maption.com.br
-![logo](logos/serpro.svg) | SERPRO | [http://www.serpro.gov.br](http://www.serpro.gov.br) | 55 61 2021-7666
+![logo](logos/serpro.png) | SERPRO | [http://www.serpro.gov.br](http://www.serpro.gov.br) | 55 61 2021-7666
 
 ## Sudeste
 Total: 52
@@ -129,8 +129,8 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | BoxCoder | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
 ![logo](logos/intpip.png) | Intip | [http://www.intip.com.br/](http://www.intip.com.br/) | 55 31 2526-2623
 ![logo](logos/meliuz.png) | Méliuz | [https://www.meliuz.com.br/](https://www.meliuz.com.br/) | | [https://meliuz.recruiterbox.com/jobs](https://meliuz.recruiterbox.com/jobs)
-![logo](logos/prodap.jpg) | Prodap | [http://www.prodap.com.br/pt/](http://www.prodap.com.br/pt/) | 55 31 3555-0800
-![logo](logos/studiosol.svg) | StudioSol | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | 55 31 2127-2540
+![logo](logos/prodap.png) | Prodap | [http://www.prodap.com.br/pt/](http://www.prodap.com.br/pt/) | 55 31 3555-0800
+![logo](logos/studiosol.png) | StudioSol | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | 55 31 2127-2540
 ![logo](logos/silex-sistemas.png) | Sílex Sistemas | [http://www.silexsistemas.com.br/](http://www.silexsistemas.com.br/) | 55 31 3273-1530
 ![logo](logos/tivit.png) | TIVIT | [http://www.tivit.com/](http://www.tivit.com/)
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
@@ -188,7 +188,7 @@ Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/arcamo.svg) | Arcamo | [http://www.arcamo.com.br/](http://www.arcamo.com.br/) | ettore@arcamo.com.br
+![logo](logos/arcamo.png) | Arcamo | [http://www.arcamo.com.br/](http://www.arcamo.com.br/) | ettore@arcamo.com.br
 
 #### Ribeirão Preto
 Total: 6
@@ -235,7 +235,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | 55 (11) 2193-1961
 ![logo](logos/default.png) | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | 55 (11) 3849-0054
 ![logo](logos/default.png) | Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) | jose.maciel@vivadecora.com.br
-![logo](logos/filmow.jpg) | filmow.com | [http://filmow.com](http://filmow.com) | 55 (11) 3512-6600
+![logo](logos/filmow.png) | filmow.com | [http://filmow.com](http://filmow.com) | 55 (11) 3512-6600
 
 ### Rio de Janeiro
 Total: 13
@@ -255,7 +255,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 ![logo](logos/default.png) | EloGroup | [http://elogroup.com.br/](http://elogroup.com.br/) | bernardo.fontes@elogroup.com.br
 ![logo](logos/default.png) | Finxi | [http://finxi.com.br/](http://finxi.com.br/) | victor.sousa@finxi.com.br
-![logo](logos/globocom.svg) | Globo.com | [http://www.globo.com/](http://www.globo.com/) | bernardo@corp.globo.com
+![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) | bernardo@corp.globo.com
 ![logo](logos/default.png) | Globosat | [http://globosat.tv.br](http://globosat.tv.br) | rh@globosat.com.br
 ![logo](logos/default.png) | Hadrons | [http://hadrons.io/](http://hadrons.io/) | contact@hadrons.io
 ![logo](logos/default.png) | Hotel Urbano | [http://www.hotelurbano.com/](http://www.hotelurbano.com/) | bruno.moura@hotelurbano.com.br
@@ -276,7 +276,7 @@ Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/olist.jpg) | Olist | [https://olist.com](https://olist.com) | br@olist.com | https://bit.ly/olist-webdev
+![logo](logos/olist.png) | Olist | [https://olist.com](https://olist.com) | br@olist.com | https://bit.ly/olist-webdev
 
 #### Apucarana
 Total: 1
@@ -301,7 +301,7 @@ Total: 3
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Azion Technologies | [http://www.azion.com/](http://www.azion.com/) | marcelo.mallmann@azion.com
-![logo](logos/globocom.svg) | Globo.com | [http://www.globo.com/](http://www.globo.com/) |
+![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) |
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 
 #### Santa Maria
