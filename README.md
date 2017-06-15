@@ -4,17 +4,11 @@ Esse repositório contém informações de contato das empresas de tecnologia do
 # Ranking
 Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de programação Python no Brasil. **Os dados são baseados apenas nas informações contidas nesse repositório**.
 
-<p align="center">
- <img src="ranking/ranking_cities.png">
-</p>
+![ranking-cities](ranking/ranking_cities.png)
 
-<p align="right">
- <img src="ranking/ranking_states.png">
-</p>
+![ranking-states](ranking/ranking_states.png)
 
-<p align="center">
- <img src="ranking/ranking_regions.png">
-</p>
+![ranking-regions](ranking/ranking_regions.png)
 
 ## Norte
 Total: 2
