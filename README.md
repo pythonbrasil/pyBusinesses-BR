@@ -127,7 +127,7 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/2xt.png) | 2XT | [http://www.2xt.com.br/](http://www.2xt.com.br/) | 55 31 3292-2120 
 ![logo](logos/default.png) | BoxCoder | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
-![logo](logos/intpip.png) | Intip | [http://www.intip.com.br/](http://www.intip.com.br/) | 55 31 2526-2623
+![logo](logos/intip.png) | Intip | [http://www.intip.com.br/](http://www.intip.com.br/) | 55 31 2526-2623
 ![logo](logos/meliuz.png) | Méliuz | [https://www.meliuz.com.br/](https://www.meliuz.com.br/) | | [https://meliuz.recruiterbox.com/jobs](https://meliuz.recruiterbox.com/jobs)
 ![logo](logos/prodap.png) | Prodap | [http://www.prodap.com.br/pt/](http://www.prodap.com.br/pt/) | 55 31 3555-0800
 ![logo](logos/studiosol.png) | StudioSol | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | 55 31 2127-2540
