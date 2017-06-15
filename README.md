@@ -53,10 +53,10 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/potelo.png) | Potelo | [http://www.potelo.com.br](http://www.potelo.com.br)
 
 ### Pernambuco
-Total: 8
+Total: 9
 
 #### Recife
-Total: 8
+Total: 9
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -67,6 +67,8 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/labcodes.png) | Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
 ![logo](logos/pycursos.png) | PyCursos | [http://pycursos.com](http://pycursos.com) | admin@pycursos.com
 ![logo](logos/vinta.png) | Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br
+![logo](logos/3y.png) | 3Y | [http://www.3ysoftwarehouse.com.br/](http://www.3ysoftwarehouse.com.br/)
+![logo](logos/tagi.png) | tag.i | [http://www.tagi.com.br](http://www.tagi.com.br)
 ![logo](logos/tagi.png) | tag.i | [http://www.tagi.com.br](http://www.tagi.com.br)
 
 ### Rio Grande do Norte
@@ -85,7 +87,7 @@ Logo | Empresa | Site | Contato | Vagas
 Total: 6
 
 ### Mato Grosso
-Total: 1
+Total: 2
 
 #### Alta Floresta
 Total: 1
@@ -93,6 +95,13 @@ Total: 1
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/ello-tecnologia.png) | Ello Tecnologia | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br) | clayton@ellotecnologia.net.br
+
+#### Cidade desconhecida - MS
+Total: 1
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/maestrus.png) | Maestrus | [https://maestrus.com/](https://maestrus.com/) | 55 (67) 4042-0306
 
 ### Distrito Federal
 Total: 5
@@ -119,7 +128,7 @@ Total: 9
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/2xt.png) | 2XT | [http://www.2xt.com.br/](http://www.2xt.com.br/) | 55 31 3292-2120 
+![logo](logos/2xt.png) | 2XT | [http://www.2xt.com.br/](http://www.2xt.com.br/) | 55 31 3292-2120
 ![logo](logos/default.png) | BoxCoder | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
 ![logo](logos/intip.png) | Intip | [http://www.intip.com.br/](http://www.intip.com.br/) | 55 31 2526-2623
 ![logo](logos/meliuz.png) | Méliuz | [https://www.meliuz.com.br/](https://www.meliuz.com.br/) | | [https://meliuz.recruiterbox.com/jobs](https://meliuz.recruiterbox.com/jobs)
@@ -145,7 +154,7 @@ Logo | Empresa | Site | Contato | Vagas
 
 
 ### São Paulo
-Total: 28
+Total: 33
 
 #### Campinas
 Total: 2
@@ -212,7 +221,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Necto Systems | [http://nectosystems.com.br/](http://nectosystems.com.br/) | http://nectosystems.com.br/contato/
 
 #### São Paulo
-Total: 13
+Total: 18
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
@@ -230,6 +239,11 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | 55 (11) 3849-0054
 ![logo](logos/default.png) | Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) | jose.maciel@vivadecora.com.br
 ![logo](logos/filmow.png) | filmow.com | [http://filmow.com](http://filmow.com) | 55 (11) 3512-6600
+![logo](logos/cargobr.svg) | CargoBR | [https://cargobr.com/](https://cargobr.com/) | 55 (11) 2507-4936
+![logo](logos/scielo.jpg) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
+![logo](logos/default.png) | LuizaLabs | [http://luizalabs.com/](http://luizalabs.com/) | [https://luizalabs.workable.com/](https://luizalabs.workable.com/)
+![logo](logos/default.png) | Loggi | [https://www.loggi.com/](https://www.loggi.com/) | [https://jobs.lever.co/loggi/](https://jobs.lever.co/loggi/)
+
 
 ### Rio de Janeiro
 Total: 13
@@ -277,7 +291,7 @@ Total: 1
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/km-sistemas.png) | KM Sistemas | [http://www.kmsistemas.com.br/](http://www.kmsistemas.com.br/) | desenvolvimento@kmsistemas.com.br +55 (43) 3424 2300 
+![logo](logos/km-sistemas.png) | KM Sistemas | [http://www.kmsistemas.com.br/](http://www.kmsistemas.com.br/) | desenvolvimento@kmsistemas.com.br +55 (43) 3424 2300
 
 ### Rio Grande do Sul
 Total: 5
@@ -306,7 +320,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info
 
 ### Santa Catarina
-Total: 24
+Total: 25
 
 #### Florianópolis
 Total: 19
@@ -349,3 +363,10 @@ Total: 1
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Intelbras | [http://www.intelbras.com.br/](http://www.intelbras.com.br/) | http://www.intelbras.com.br/fale-conosco | [Vagas aqui](http://trabalheconosco.intelbras.com.br/trabalhe-conosco-vagas.php)
+
+#### Blumenau
+Total: 1
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/m2agro.png) | M2Agro | [http://www.m2agro.com.br](http://www.m2agro.com.br) | [http://www.m2agro.com.br/career/](http://www.m2agro.com.br/career/)
