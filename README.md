@@ -52,7 +52,6 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Dantas Engenharia de Avaliações | [http://www.dantasengenharia.com/](http://www.dantasengenharia.com/) | suporte@dantas.eng.br
 ![logo](logos/genomika-diagnosticos.png) | Genomika Diagnósticos | [http://genomika.com.br](http://genomika.com.br) | bioinfo@genomika.com.br
-![logo](logos/grupocitec.png) | GrupoCITEC | [https://grupocitec.com](https://grupocitec.com) | info@grupocitec.com
 ![logo](logos/default.png) | Intelivix | [http://intelivix.com/](http://intelivix.com/) | contato@intelivix.com
 ![logo](logos/labcodes.png) | Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
 ![logo](logos/pycursos.png) | PyCursos | [http://pycursos.com](http://pycursos.com) | admin@pycursos.com
@@ -165,6 +164,11 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | GAS Tecnologia | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
 
+#### Limeira
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/grupocitec.png) | GrupoCITEC | [https://grupocitec.com](https://grupocitec.com) | info@grupocitec.com
 #### Marília
 
 Logo | Empresa | Site | Contato | Vagas
