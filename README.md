@@ -298,7 +298,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Cheesecake Labs | [https://www.ckl.io/](https://www.ckl.io/) | 55 (48) 3206-5246
 ![logo](logos/default.png) | Cianet | [http://www.cianet.ind.br/](http://www.cianet.ind.br/) | 55 48 2106 0101
 ![logo](logos/default.png) | Cliix | [http://cliix.io](http://cliix.io) | jobs@cliix.io
-![logo](logos/default.png) | Contentools | [http://contentools.com ](http://contentools.com) | willian.miranda@contentools.com.br
+![logo](logos/contentools.png) | Contentools | [http://contentools.com ](http://contentools.com) | willian.miranda@contentools.com.br
 ![logo](logos/default.png) | D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
 ![logo](logos/default.png) | M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 ![logo](logos/default.png) | Myreks | [http://www.myreks.com](http://www.myreks.com) | carrers@myreks.com
