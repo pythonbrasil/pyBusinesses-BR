@@ -19,6 +19,7 @@ Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de p
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/fpf-tech.png) | FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) |
+![logo](logos/default.png) | Conatus | [http://conatussw.com](http://conatussw.com) |
 ![logo](logos/default.png) | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 
 ## Nordeste
