@@ -222,6 +222,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/filmow.png) | filmow.com | [http://filmow.com](http://filmow.com) | 55 (11) 3512-6600
 ![logo](logos/pontotel.png) | PontoTel | [http://www.pontotel.com.br/](http://www.pontotel.com.br/) | dev@pontotel.com.br
 ![logo](logos/scielo.png) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
+![logo](logos/nuveo.png) | Nuveo | [https://nuveo.com.br](https://nuveo.com.br) | 55 (11) 3280-3132
 
 ### Rio de Janeiro
 
