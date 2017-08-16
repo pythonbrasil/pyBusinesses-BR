@@ -94,7 +94,7 @@ def generate_report_regions(data):
 
 
 if __name__ == "__main__":
-    with open('../README.md') as file:
+    with open('../README.md',encoding='utf-8') as file:
         data = get_data(file)
 
     generate_report_cities(data)
