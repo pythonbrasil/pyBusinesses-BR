@@ -123,6 +123,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/silex-sistemas.png) | Sílex Sistemas | [http://www.silexsistemas.com.br/](http://www.silexsistemas.com.br/) | 55 31 3273-1530
 ![logo](logos/tivit.png) | TIVIT | [http://www.tivit.com/](http://www.tivit.com/)
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
+![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-mg@elipse.com.br +55 (31) 4062 5824
 
 #### Uberlândia
 
@@ -223,6 +224,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/pontotel.png) | PontoTel | [http://www.pontotel.com.br/](http://www.pontotel.com.br/) | dev@pontotel.com.br
 ![logo](logos/scielo.png) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
 ![logo](logos/nuveo.png) | Nuveo | [https://nuveo.com.br](https://nuveo.com.br) | 55 (11) 3280-3132
+![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-sp@elipse.com.br +55 (11) 4062 5824
 
 ### Rio de Janeiro
 
@@ -249,6 +251,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Sieve | [https://sieve.com.br/](https://sieve.com.br/) | ti.vagas@sieve.com.br ; victor.novaes@sieve.com.br
 ![logo](logos/default.png) | Stone | [http://www.stone.com.br/](http://www.stone.com.br/) | rportugal@stone.com.br
 ![logo](logos/storm-security.png) | Storm Security | [http://stormsec.com.br/](htto://stormsec.com.br/) | karina.garcia@stormsec.com.br
+![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-rj@elipse.com.br +55 (21) 2112 4682
 
 ## Sul
 
@@ -259,6 +262,7 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/olist.png) | Olist | [https://olist.com](https://olist.com) | br@olist.com | https://bit.ly/olist-webdev
+![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-pr@elipse.com.br +55 (41) 4062 5824
 
 #### Apucarana
 
@@ -281,6 +285,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Azion Technologies | [http://www.azion.com/](http://www.azion.com/) | marcelo.mallmann@azion.com
 ![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) |
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
+![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | elipse@elipse.com.br +55 (51) 4062 5824
 
 #### Santa Maria
 
@@ -334,3 +339,4 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/m2agro.png) | M2Agro | [http://www.m2agro.com.br](http://www.m2agro.com.br) | [http://www.m2agro.com.br/career/](http://www.m2agro.com.br/career/)
+**_`****`_**
