@@ -166,11 +166,19 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | GAS Tecnologia | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
 
+#### Jundiai
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/databrain.png) | Dextra | [http://databrain.com.br](http://databrain.com.br) | 55 11 98587-8650
+
+
 #### Limeira
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/grupocitec.png) | GrupoCITEC | [https://grupocitec.com](https://grupocitec.com) | info@grupocitec.com
+
 #### Marília
 
 Logo | Empresa | Site | Contato | Vagas
