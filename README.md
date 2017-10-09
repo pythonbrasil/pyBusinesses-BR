@@ -86,7 +86,7 @@ Logo | Empresa | Site | Contato | Vagas
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.com.br](http://www.avaluesistemas.com.br) | site ainda a lançar 
+![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.com.br](http://www.avaluesistemas.com.br) | site ainda a lançar
 
 #### Dourados
 
@@ -121,6 +121,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/prodap.png) | Prodap | [http://www.prodap.com.br/pt/](http://www.prodap.com.br/pt/) | 55 31 3555-0800
 ![logo](logos/studiosol.png) | StudioSol | [http://www.studiosol.com.br/](http://www.studiosol.com.br/) | 55 31 2127-2540
 ![logo](logos/silex-sistemas.png) | Sílex Sistemas | [http://www.silexsistemas.com.br/](http://www.silexsistemas.com.br/) | 55 31 3273-1530
+![logo](logos/superbuy.png) | Superbuy | [http://www.superbuy.com.br/](http://www.superbuy.com.br/) | 55 31 3071-4800
 ![logo](logos/tivit.png) | TIVIT | [http://www.tivit.com/](http://www.tivit.com/)
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-mg@elipse.com.br +55 (31) 4062 5824
