@@ -105,6 +105,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/liberiun.png) | Liberiun | [http://www.liberiun.com/](http://www.liberiun.com/) | 55 61 3041-8172
 ![logo](logos/default.png) | Maption | [http://maption.com.br/](http://maption.com.br/) | contact@maption.com.br
 ![logo](logos/serpro.png) | SERPRO | [http://www.serpro.gov.br](http://www.serpro.gov.br) | 55 61 2021-7666
+![logo](logos/lightbase.png) | Lightbase | [http://www.lightbase.com.br](http://www.lightbase.com.br) | 55 61 3347-1949
 
 ## Sudeste
 
