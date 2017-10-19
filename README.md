@@ -169,7 +169,7 @@ Logo | Empresa | Site | Contato | Vagas
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/databrain.png) | Dextra | [http://databrain.com.br](http://databrain.com.br) | 55 11 98587-8650
+![logo](logos/databrain.png) | Data Brain | [http://databrain.com.br](http://databrain.com.br) | 55 11 98587-8650
 
 
 #### Limeira
