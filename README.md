@@ -234,7 +234,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Viva Decora | [https://www.vivadecora.com.br/](https://www.vivadecora.com.br/) | jose.maciel@vivadecora.com.br
 ![logo](logos/filmow.png) | filmow.com | [http://filmow.com](http://filmow.com) | 55 (11) 3512-6600
 ![logo](logos/pontotel.png) | PontoTel | [http://www.pontotel.com.br/](http://www.pontotel.com.br/) | dev@pontotel.com.br
-![logo](logos/scielo.png) | Scielo | [http://www.scielo.org/php/index.php](http://www.scielo.org/php/index.php) | 55 (11) 5083-3639
+![logo](logos/scielo.png) | Scielo | [http://www.scielo.org](http://www.scielo.org) | 55 (11) 5083-3639 | scielo-dev@googlegroups.com
 ![logo](logos/nuveo.png) | Nuveo | [https://nuveo.com.br](https://nuveo.com.br) | 55 (11) 3280-3132
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-sp@elipse.com.br +55 (11) 4062 5824
 ![logo](logos/zap.png) | ZAP Imóveis | [https://www.zapimoveis.com.br](https://www.zapimoveis.com.br) | https://www.99jobs.com/zap-s-a-internet
