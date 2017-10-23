@@ -1,9 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-
 import re
 from collections import Counter, defaultdict
-
 import matplotlib.pyplot as plt
 
 
