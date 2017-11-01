@@ -299,6 +299,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) |
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | elipse@elipse.com.br +55 (51) 4062 5824
+![logo](logos/zap.png) | ZAP Imóveis | [https://www.zapimoveis.com.br](https://www.zapimoveis.com.br) | https://www.99jobs.com/zap-s-a-internet
 
 #### Santa Maria
 
