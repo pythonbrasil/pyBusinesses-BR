@@ -321,6 +321,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Cliix | [http://cliix.io](http://cliix.io) | jobs@cliix.io
 ![logo](logos/contentools.png) | Contentools | [http://contentools.com ](http://contentools.com) | willian.miranda@contentools.com.br
 ![logo](logos/default.png) | D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
+![logo](logos/esss.png) | ESSS | [http://esss.com.br/](http://esss.com.br/) | [Venha trabalhar conosco](http://esss.com.br/empresa_trabalhe_conosco.php)
 ![logo](logos/default.png) | M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 ![logo](logos/default.png) | Myreks | [http://www.myreks.com](http://www.myreks.com) | carrers@myreks.com
 ![logo](logos/default.png) | Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
