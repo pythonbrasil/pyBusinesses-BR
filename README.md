@@ -306,7 +306,8 @@ Logo | Empresa | Site | Contato | Vagas
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/default.png) | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info
+![logo](logos/erclinic.png) | ER Clinic | [https://erclinic.com.br](https://erclinic.com.br) | contato@ersistemas.info | 55 55 3217-4980
+![logo](logos/ersistemas.png) | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info | 55 55 3217-4980
 
 ### Santa Catarina
 
