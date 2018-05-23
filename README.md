@@ -315,7 +315,6 @@ Logo | Empresa | Site | Contato | Vagas
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/default.png) | Axado | [http://www.axado.com.br](http://www.axado.com.br) | 55 48 3047 4704
 ![logo](logos/default.png) | Catarina Touch | [www.catarinatouch.com](http://www.catarinatouch.com) | 55 48 3207 8527
 ![logo](logos/default.png) | Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | 55 48 3232 3200
 ![logo](logos/default.png) | Cheesecake Labs | [https://www.ckl.io/](https://www.ckl.io/) | 55 (48) 3206-5246
@@ -324,7 +323,9 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/contentools.png) | Contentools | [http://contentools.com ](http://contentools.com) | willian.miranda@contentools.com.br
 ![logo](logos/default.png) | D2 Sistemas de Implantar | [http://cd2.com.br ](http://cd2.com.br) |
 ![logo](logos/esss.png) | ESSS | [http://esss.com.br/](http://esss.com.br/) | [Venha trabalhar conosco](http://esss.com.br/empresa_trabalhe_conosco.php)
+![logo](logos/loadsmart.png) | Loadsmart Inc. | [https://www.loadsmart.com](https://www.loadsmart.com) | [Florianopolis & NY](https://loadsmart.com/careers/)
 ![logo](logos/default.png) | M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
+![logo](logos/mercadolivre.png) | Mercado Livre Florianopolis | [http://www.mercadolivre.com.br](http://www.mercadolivre.com.br) | 55 48 3047 4704
 ![logo](logos/default.png) | Myreks | [http://www.myreks.com](http://www.myreks.com) | carrers@myreks.com
 ![logo](logos/default.png) | Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
 ![logo](logos/default.png) | Nexxera | [http://www.nexxera.com](http://www.nexxera.com) | 55 48 2106 5698
