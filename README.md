@@ -336,6 +336,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Stormtech | [http://www.stormtech.com.br ](http://www.stormtech.com.br) | 55 48 3207 6493 - jeronimo@stormtech.com.br
 ![logo](logos/default.png) | Trustcode | [http://www.trustcode.com.br ](http://www.trustcode.com.br) | 55 48 3771-0507 - gestao@trustcode.com.br
 ![logo](logos/default.png) | eCentry | [http://ecentry.com ](http://ecentry.com) | 55 48 3031 6200
+![logo](logos/wplex.png) | WPLEX | [http://www.wplex.com.br](http://www.wplex.com.br) | 55 48 3239 2400
 
 #### Joinville
 
