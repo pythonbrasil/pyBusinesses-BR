@@ -69,6 +69,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | 168 horas | [http://168h.com.br](http://168h.com.br) | 55 84 8712-4408
 ![logo](logos/evolux.png) | Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | 55 11 4003-3833
 ![logo](logos/ifrn.png) | IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | 55 84 4005-0772
+![logo](logos/rctech.png) | RCTech | [https://rcpam.net](https://rcpam.net) | 55 84 2226-5397
 
 ## Centro-Oeste
 
