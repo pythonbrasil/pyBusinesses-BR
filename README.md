@@ -18,9 +18,11 @@ Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de p
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/fpf-tech.png) | FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) |
-![logo](logos/default.png) | Conatus | [http://conatussw.com](http://conatussw.com) |
-![logo](logos/default.png) | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
+![logo](logos/fpf-tech.png) | FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) ||
+![logo](logos/bemol.png) | Lojas Bemol | [https://www.bemol.com.br/](https://www.bemol.com.br/) |bemolonline@bemol.com.br|
+![logo](logos/buritech.jpg) | Buritech | http://www.buritech.com.br/site/ |contato@buritech.com.br|
+![logo](logos/linx-neemu-chaordic.png) | Linx+Neemu+Chaordic | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com|
+![logo](logos/conatussw.png) | Conatus | [http://conatussw.com](http://conatussw.com) | |
 
 ## Nordeste
 
