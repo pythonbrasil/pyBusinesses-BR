@@ -233,6 +233,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | LuizaLabs | [http://luizalabs.com/](http://luizalabs.com/) | [https://luizalabs.workable.com/](https://luizalabs.workable.com/)
 ![logo](logos/default.png) | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 ![logo](logos/default.png) | Onyo (trabalhamos remotamente) | [http://onyo.com](http://onyo.com) | 55 (21) 3942-2102
+![logo](logos/sensedata.png) | Sensedata | [https://sensedata.com.br/](https://sensedata.com.br/) | [https://sensedata.freshteam.com/jobs](https://sensedata.freshteam.com/jobs)
 ![logo](logos/default.png) | Simples Consultoria | [http://www.simplesconsultoria.com.br/](http://www.simplesconsultoria.com.br/) | 55 (11) 3898-2121
 ![logo](logos/default.png) | Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | 55 (11) 2193-1961
 ![logo](logos/default.png) | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | 55 (11) 3849-0054
