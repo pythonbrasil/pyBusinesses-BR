@@ -224,6 +224,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | CathoLabs | [http://catholabs.com](http://catholabs.com) | [http://catho.com.br](http://catho.com.br)
 ![logo](logos/default.png) | Cetax | [https://www.cetax.com.br/](https://www.cetax.com.br/) | contato@cetax.com.br
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
+![logo](logos/default.png) | Digesto | [https://digesto.com.br](https://digesto.com.br) | 55 (11) 2626-0350 | digesto@digesto.com.br
 ![logo](logos/default.png) | GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
 ![logo](logos/default.png) | Hacklab | [http://hacklab.com.br/](http://hacklab.com.br/) | 55 (11) 2892-0122
 ![logo](logos/default.png) | LegalNote | [http://legalnote.com.br](http://legalnote.com.br) | 55 (11) 3262-3122
