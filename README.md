@@ -225,6 +225,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | CathoLabs | [http://catholabs.com](http://catholabs.com) | [http://catho.com.br](http://catho.com.br)
 ![logo](logos/default.png) | Cetax | [https://www.cetax.com.br/](https://www.cetax.com.br/) | contato@cetax.com.br
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
+![logo](logos/default.png) | Digesto | [https://digesto.com.br](https://digesto.com.br) | 55 (11) 2626-0350 | digesto@digesto.com.br
 ![logo](logos/default.png) | GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
 ![logo](logos/default.png) | Hacklab | [http://hacklab.com.br/](http://hacklab.com.br/) | 55 (11) 2892-0122
 ![logo](logos/default.png) | LegalNote | [http://legalnote.com.br](http://legalnote.com.br) | 55 (11) 3262-3122
@@ -233,6 +234,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | LuizaLabs | [http://luizalabs.com/](http://luizalabs.com/) | [https://luizalabs.workable.com/](https://luizalabs.workable.com/)
 ![logo](logos/default.png) | Neemu | [http://www.neemu.com/](http://www.neemu.com/) | careers@neemu.com
 ![logo](logos/default.png) | Onyo (trabalhamos remotamente) | [http://onyo.com](http://onyo.com) | 55 (21) 3942-2102
+![logo](logos/sensedata.png) | Sensedata | [https://sensedata.com.br/](https://sensedata.com.br/) | [https://sensedata.freshteam.com/jobs](https://sensedata.freshteam.com/jobs)
 ![logo](logos/default.png) | Simples Consultoria | [http://www.simplesconsultoria.com.br/](http://www.simplesconsultoria.com.br/) | 55 (11) 3898-2121
 ![logo](logos/default.png) | Sky.One | [http://skyone.solutions/](http://skyone.solutions/) | 55 (11) 2193-1961
 ![logo](logos/default.png) | Titans Group | [http://www.titansgroup.com.br/](http://www.titansgroup.com.br/) | 55 (11) 3849-0054
@@ -270,6 +272,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Stone | [http://www.stone.com.br/](http://www.stone.com.br/) | rportugal@stone.com.br
 ![logo](logos/storm-security.png) | Storm Security | [http://stormsec.com.br/](htto://stormsec.com.br/) | karina.garcia@stormsec.com.br
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-rj@elipse.com.br +55 (21) 2112 4682
+![logo](logos/e-xyon.png) | e-Xyon | [https://e-xyon.com.br/](https://e-xyon.com.br/) | victor.rizzo@e-xyon.com.br +55 (21) 2121 0100 | [Vagas](https://e-xyon.com.br/contato/trabalhe-conosco)
 
 ## Sul
 
