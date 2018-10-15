@@ -144,6 +144,11 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | KMEE | [http://kmee.com.br](http://kmee.com.br) | contato at kmee com br
 
+#### Juiz de Fora
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/lab01.png) | Lab01 | [https://lab01.com.br](https://lab01.com.br) | contato@lab01.com.br
 
 ### São Paulo
 
@@ -272,6 +277,13 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/storm-security.png) | Storm Security | [http://stormsec.com.br/](htto://stormsec.com.br/) | karina.garcia@stormsec.com.br
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-rj@elipse.com.br +55 (21) 2112 4682
 ![logo](logos/e-xyon.png) | e-Xyon | [https://e-xyon.com.br/](https://e-xyon.com.br/) | victor.rizzo@e-xyon.com.br +55 (21) 2121 0100 | [Vagas](https://e-xyon.com.br/contato/trabalhe-conosco)
+
+
+#### Paracambi
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/lab01.png) | Lab01 | [https://lab01.com.br](https://lab01.com.br) | contato@lab01.com.br
 
 ## Sul
 
