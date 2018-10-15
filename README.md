@@ -250,6 +250,9 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/nuveo.png) | Nuveo | [https://nuveo.com.br](https://nuveo.com.br) | 55 (11) 3280-3132
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-sp@elipse.com.br +55 (11) 4062 5824
 ![logo](logos/zap.png) | ZAP Imóveis | [https://www.zapimoveis.com.br](https://www.zapimoveis.com.br) | https://www.99jobs.com/zap-s-a-internet
+![logo](logos/4linux.png) | 4Linux | [https://www.4linux.com.br](https://www.4linux.com.br) |
+
+
 
 ### Rio de Janeiro
 
