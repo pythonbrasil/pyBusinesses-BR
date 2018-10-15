@@ -261,6 +261,8 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | WPensar | [http://wpensar.com.br/](http://wpensar.com.br/) | gustavo.morada@wpensar.com.br
+![logo](logos/dekode.png) | Dekode | [http://dekode.com.br/](http://dekode.com.br/)
+
 
 #### Rio de Janeiro
 
