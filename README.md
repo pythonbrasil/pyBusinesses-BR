@@ -131,6 +131,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-mg@elipse.com.br +55 (31) 4062 5824
 ![logo](logos/accenture.png) | Accenture | [https://www.accenture.com/br-pt/new-applied-now](https://www.accenture.com/br-pt/new-applied-now) | +55 (31) 3338-5100
+![logo](logos/CI&T.png) | CI&T | [https://br.ciandt.com/](https://br.ciandt.com/) | +55 (31) 3029-2600
 
 #### Uberlândia
 
