@@ -43,9 +43,9 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/echoflow-engineering.png) | EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/)
+![logo](logos/escavador.png) | Escavador | [http://www.escavador.com](http://www.escavador.com)
 ![logo](logos/jusbrasil.png) | JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br)
 ![logo](logos/maqhin-solucoes-tecnologicas.png) | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br
-![logo](logos/potelo.png) | Potelo | [http://www.potelo.com.br](http://www.potelo.com.br)
 
 ### Pernambuco
 
