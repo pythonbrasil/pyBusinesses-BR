@@ -106,6 +106,31 @@ def draw_plot(data, title, region, output, subplot):
     plt.savefig(output)
 
 
+def draw_map(data, title, output):
+    """
+    Draw a map with the enterprises.
+
+    Args:
+        data: Data file outputted from `get_data`.
+        title: A title for the plot.
+        output: Name of the file to save.
+    """
+    import cartopy.crs as ccrs
+
+    coords = get_lat_lon(data).values()
+
+    lat = [coord[0] for coord in coords]
+    lon = [coord[1] for coord in coords]
+
+    ax = plt.axes(projection=ccrs.PlateCarree())
+    ax.stock_img()
+    ax.coastlines()
+    ax.scatter(lon, lat, marker='o', s=50, alpha=0.8)
+    ax.set_extent([-75, -20, -35, 5], crs=ccrs.PlateCarree())
+    ax.set_title(title)
+    plt.savefig(output)
+
+
 def generate_report_cities(data):
     data = Counter(get_cities(data))
     draw_plot(data, "Cidades mais pythônicas", "Cidades",
@@ -124,6 +149,10 @@ def generate_report_regions(data):
               "ranking_regions", 232)
 
 
+def generate_report_map(data):
+    draw_map(data, "Mapa das Empresas", "ranking_mapa")
+
+
 if __name__ == "__main__":
     with open('../README.md',encoding='utf-8') as file:
         data = get_data(file)
@@ -131,3 +160,4 @@ if __name__ == "__main__":
     generate_report_cities(data)
     generate_report_states(data)
     generate_report_regions(data)
+    generate_report_map(data)
