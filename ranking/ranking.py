@@ -52,6 +52,40 @@ def get_regions(data):
     return regions_data
 
 
+def get_lat_lon(data):
+    """
+    Get latitude and longitude from cities in data.
+
+    Args:
+        data: Data file outputted from `get_data`.
+
+    Returns:
+        A dictionary where the keys are the name of the cities and the values
+        are tuples with latitude and longitude of these cities.
+    """
+    from time import sleep
+    from geopy import geocoders
+    from geopy.exc import GeocoderTimedOut
+
+    gn = geocoders.GeoNames(username='foobar')
+
+    cities = get_cities(data).keys()
+
+    coords = {}
+    for city in cities:
+        while True:
+            try:
+                loc = gn.geocode(city + ", Brazil")
+            except GeocoderTimedOut:
+                sleep(2)
+            else:
+                break
+
+        coords[city] = (loc.latitude, loc.longitude)
+
+    return coords
+
+
 def draw_plot(data, title, region, output, subplot):
     xaxis = range(len(data))
     keys_freq = []
