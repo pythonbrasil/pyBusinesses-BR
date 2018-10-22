@@ -47,6 +47,12 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/jusbrasil.png) | JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br)
 ![logo](logos/maqhin-solucoes-tecnologicas.png) | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br
 
+#### Feira de Santana
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/gerenciagram.png) | Gerenciagram | [https://gerenciagram.com.br/](http://gerenciagram.com.br/) | suporte@gerenciagram.com.br
+
 ### Pernambuco
 
 #### Recife
