@@ -10,6 +10,8 @@ Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de p
 
 ![ranking-regions](ranking/ranking_regions.png)
 
+![ranking-mapa](ranking/ranking_mapa.png)
+
 ## Norte
 
 ### Amazonas

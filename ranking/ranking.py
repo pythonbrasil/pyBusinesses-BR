@@ -52,6 +52,40 @@ def get_regions(data):
     return regions_data
 
 
+def get_lat_lon(data):
+    """
+    Get latitude and longitude from cities in data.
+
+    Args:
+        data: Data file outputted from `get_data`.
+
+    Returns:
+        A dictionary where the keys are the name of the cities and the values
+        are tuples with latitude and longitude of these cities.
+    """
+    from time import sleep
+    from geopy import geocoders
+    from geopy.exc import GeocoderTimedOut
+
+    gn = geocoders.GeoNames(username='foobar')
+
+    cities = get_cities(data).keys()
+
+    coords = {}
+    for city in cities:
+        while True:
+            try:
+                loc = gn.geocode(city + ", Brazil")
+            except GeocoderTimedOut:
+                sleep(2)
+            else:
+                break
+
+        coords[city] = (loc.latitude, loc.longitude)
+
+    return coords
+
+
 def draw_plot(data, title, region, output, subplot):
     xaxis = range(len(data))
     keys_freq = []
@@ -69,6 +103,31 @@ def draw_plot(data, title, region, output, subplot):
     plt.ylabel("Número de Empresas")
     locs, labels = plt.xticks()
     plt.setp(labels, rotation=90)
+    plt.savefig(output)
+
+
+def draw_map(data, title, output):
+    """
+    Draw a map with the enterprises.
+
+    Args:
+        data: Data file outputted from `get_data`.
+        title: A title for the plot.
+        output: Name of the file to save.
+    """
+    import cartopy.crs as ccrs
+
+    coords = get_lat_lon(data).values()
+
+    lat = [coord[0] for coord in coords]
+    lon = [coord[1] for coord in coords]
+
+    ax = plt.axes(projection=ccrs.PlateCarree())
+    ax.stock_img()
+    ax.coastlines()
+    ax.scatter(lon, lat, marker='o', s=50, alpha=0.8)
+    ax.set_extent([-75, -20, -35, 5], crs=ccrs.PlateCarree())
+    ax.set_title(title)
     plt.savefig(output)
 
 
@@ -90,6 +149,10 @@ def generate_report_regions(data):
               "ranking_regions", 232)
 
 
+def generate_report_map(data):
+    draw_map(data, "Mapa das Empresas", "ranking_mapa")
+
+
 if __name__ == "__main__":
     with open('../README.md',encoding='utf-8') as file:
         data = get_data(file)
@@ -97,3 +160,4 @@ if __name__ == "__main__":
     generate_report_cities(data)
     generate_report_states(data)
     generate_report_regions(data)
+    generate_report_map(data)
