@@ -212,7 +212,7 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | BeBlue | [http://beblue.com.br/](http://beblue.com.br/)
 ![logo](logos/default.png) | Convertize E-Commerce | [http://www.convertize.com.br/](http://www.convertize.com.br/) | 55 (16) 3075-7676 - contato@convertize.com.br
-![logo](logos/default.png) | Crave Food Services | [https://sourcewhatsgood.com](https://sourcewhatsgood.com)
+![logo](logos/crave.png) | Crave Food Systems | [https://cravehq.com/](https://cravehq.com/) | | https://crave.workable.com/
 ![logo](logos/default.png) | M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | 55 (16) 3289 9851 - contato@m2iconsultoria.com
 ![logo](logos/default.png) | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | 55 (16) 3514-9966 - ti@okubomercantil.com.br
 ![logo](logos/default.png) | ezVoice | [http://www.ezvoice.com.br/](http://www.ezvoice.com.br/) | 55 (16) 3515-5800 - contato@ezvoice.com.br
