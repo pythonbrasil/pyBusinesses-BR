@@ -279,7 +279,7 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 ![logo](logos/default.png) | EloGroup | [http://elogroup.com.br/](http://elogroup.com.br/) | bernardo.fontes@elogroup.com.br
-![logo](logos/eshares.png) | Carta Brazil | [http://carta.com/](http://carta.com/) | gustavo.morada@carta.com (CV's em inglês) | [Vagas](https://jobs.lever.co/carta/?location=Rio%20de%20Janeiro%2C%20Brazil&lever-via=cptBe4_E9N)
+![logo](logos/carta.png) | Carta Brazil | [http://carta.com/](http://carta.com/) | gustavo.morada@carta.com (CV's em inglês) | [Vagas](https://jobs.lever.co/carta/?location=Rio%20de%20Janeiro%2C%20Brazil&lever-via=cptBe4_E9N)
 ![logo](logos/default.png) | Finxi | [http://finxi.com.br/](http://finxi.com.br/) | victor.sousa@finxi.com.br
 ![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) | bernardo@corp.globo.com
 ![logo](logos/default.png) | Globosat | [http://globosat.tv.br](http://globosat.tv.br) | rh@globosat.com.br
