@@ -395,6 +395,6 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/m2agro.png) | M2Agro | [http://www.m2agro.com.br](http://www.m2agro.com.br) | [http://www.m2agro.com.br/career/](http://www.m2agro.com.br/career/)
-![logo](logos/serasa-consumidor.png) | Serasa Consumidor | [https://www.serasaconsumidor.com.br/](https://www.serasaconsumidor.com.br/) | [https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/](https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/) | [https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/](https://jobs.kenoby.com/serasaconsumidor)
+![logo](logos/serasa-consumidor.png) | Serasa Consumidor | [https://www.serasaconsumidor.com.br/](https://www.serasaconsumidor.com.br/) | [https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/](https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/) | [https://jobs.kenoby.com/serasaconsumidor](https://jobs.kenoby.com/serasaconsumidor)
 
 **_`****`_**
