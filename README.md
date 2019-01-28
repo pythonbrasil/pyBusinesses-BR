@@ -346,6 +346,11 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/erclinic.png) | ER Clinic | [https://erclinic.com.br](https://erclinic.com.br) | contato@ersistemas.info | 55 55 3217-4980
 ![logo](logos/ersistemas.png) | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info | 55 55 3217-4980
 
+#### São Leopoldo
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/sap-logo.png) | SAP Labs Latin America | [https://www.sap.com/brazil/about.html](https://www.sap.com/brazil/about.html) | [https://jobs.sap.com/go/SAP-Jobs-in-Brazil/912701/](https://jobs.sap.com/go/SAP-Jobs-in-Brazil/912701/) |
+
 ### Santa Catarina
 
 #### Florianópolis
