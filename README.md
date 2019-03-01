@@ -385,7 +385,7 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Magrathea Labs | [http://www.magrathealabs.com.br](http://www.magrathealabs.com.br) | contato@magrathealabs.com
-![logo](logos/default.png) | Meus Pedidos | [https://meuspedidos.com.br/](https://meuspedidos.com.br) | contato@meuspedidos.com.br
+![logo](logos/mercos.png) | Mercos | [https://www.mercos.com/](https://www.mercos.com) | contato@mercos.com
 ![logo](logos/default.png) | Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
 ![logo](logos/default.png) | iTFLEX Tecnologia | [https://www.itflex.com.br/](https://www.itflex.com.br/) | contato@itflex.com.br
 
