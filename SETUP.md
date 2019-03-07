@@ -1,6 +1,6 @@
 # Configuração de ambiente para execução do script de atualização dos gráficos
 
-## Dependêcnias
+## Dependências
 
 - python3 
 - matplotlib
