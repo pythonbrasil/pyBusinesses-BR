@@ -217,7 +217,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | 55 (16) 3514-9966 - ti@okubomercantil.com.br
 ![logo](logos/default.png) | ezVoice | [http://www.ezvoice.com.br/](http://www.ezvoice.com.br/) | 55 (16) 3515-5800 - contato@ezvoice.com.br
 ![logo](logos/iclinic.png) | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | 55 (16) 3235-3209 - contato@iclinic.com.br
-![logo](logos/zerosoft.png) | ZeroSoft | [https://www.zerosoft.com.br/](https://www.zerosoft.com.br/) | hireme@zerosoft.com.br
+![logo](logos/zerosoft.png) | ZeroSoft | [https://www.zerosoft.com.br/](https://www.zerosoft.com.br/) | +55 (16) 3916-2054 - contato@zerosoft.com.br | hireme@zerosoft.com.br
 
 #### São Carlos
 
