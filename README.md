@@ -37,6 +37,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/deway.png) | Deway | [http://www.deway.com.br](http://www.deway.com.br) | contato@deway.com.br
 ![logo](logos/funceme.png) | Funceme | [http://www.funceme.br](http://www.funceme.br) | funceme@funceme.br
 ![logo](logos/morphus.png) | Morphus | [http://www.morphus.com.br/](http://www.morphus.com.br/) | contato@morphus.com.br
+![logo](logos/intmed.png) | Intmed Software | [https://www.intmed.com.br/](https://www.intmed.com.br/) | contato@intmed.com.br
 
 ### Bahia
 
