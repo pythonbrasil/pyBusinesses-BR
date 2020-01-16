@@ -118,6 +118,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Maption | [http://maption.com.br/](http://maption.com.br/) | contact@maption.com.br
 ![logo](logos/serpro.png) | SERPRO | [http://www.serpro.gov.br](http://www.serpro.gov.br) | 55 61 2021-7666
 ![logo](logos/lightbase.png) | Lightbase | [http://www.lightbase.com.br](http://www.lightbase.com.br) | 55 61 3347-1949
+![logo](logos/Plataforma-EAD.png) | Portal EAD | [https://www.plataformaead.net/](https://www.plataformaead.net/) | contato@estadovirtual.com.br
 
 ## Sudeste
 
