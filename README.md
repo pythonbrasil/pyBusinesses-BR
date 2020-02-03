@@ -10,6 +10,8 @@ Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de p
 
 ![ranking-regions](ranking/ranking_regions.png)
 
+![ranking-mapa](ranking/ranking_mapa.png)
+
 ## Norte
 
 ### Amazonas
@@ -35,6 +37,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/deway.png) | Deway | [http://www.deway.com.br](http://www.deway.com.br) | contato@deway.com.br
 ![logo](logos/funceme.png) | Funceme | [http://www.funceme.br](http://www.funceme.br) | funceme@funceme.br
 ![logo](logos/morphus.png) | Morphus | [http://www.morphus.com.br/](http://www.morphus.com.br/) | contato@morphus.com.br
+![logo](logos/intmed.png) | Intmed Software | [https://www.intmed.com.br/](https://www.intmed.com.br/) | contato@intmed.com.br
 
 ### Bahia
 
@@ -42,10 +45,16 @@ Logo | Empresa | Site | Contato | Vagas
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
-![logo](logos/echoflow-engineering.png) | EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/)
+![logo](logos/echoflow-engineering.png) | EchoFlow Engineering | [http://echoflow.com.br/](http://echoflow.com.br/) | contato@echoflow.com.br
+![logo](logos/escavador.png) | Escavador | [http://www.escavador.com](http://www.escavador.com)
 ![logo](logos/jusbrasil.png) | JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br)
 ![logo](logos/maqhin-solucoes-tecnologicas.png) | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br
-![logo](logos/potelo.png) | Potelo | [http://www.potelo.com.br](http://www.potelo.com.br)
+
+#### Feira de Santana
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/gerenciagram.png) | Gerenciagram | [https://gerenciagram.com.br/](http://gerenciagram.com.br/) | suporte@gerenciagram.com.br
 
 ### Pernambuco
 
@@ -109,6 +118,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Maption | [http://maption.com.br/](http://maption.com.br/) | contact@maption.com.br
 ![logo](logos/serpro.png) | SERPRO | [http://www.serpro.gov.br](http://www.serpro.gov.br) | 55 61 2021-7666
 ![logo](logos/lightbase.png) | Lightbase | [http://www.lightbase.com.br](http://www.lightbase.com.br) | 55 61 3347-1949
+![logo](logos/Plataforma-EAD.png) | Portal EAD | [https://www.plataformaead.net/](https://www.plataformaead.net/) | contato@estadovirtual.com.br
 
 ## Sudeste
 
@@ -131,6 +141,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-mg@elipse.com.br +55 (31) 4062 5824
 ![logo](logos/accenture.png) | Accenture | [https://www.accenture.com/br-pt/new-applied-now](https://www.accenture.com/br-pt/new-applied-now) | +55 (31) 3338-5100
+![logo](logos/CI&T.png) | CI&T | [https://br.ciandt.com/](https://br.ciandt.com/) | +55 (31) 3029-2600
 
 #### Uberlândia
 
@@ -144,6 +155,11 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | KMEE | [http://kmee.com.br](http://kmee.com.br) | contato at kmee com br
 
+#### Juiz de Fora
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/lab01.png) | Lab01 | [https://lab01.com.br](https://lab01.com.br) | contato@lab01.com.br
 
 ### São Paulo
 
@@ -196,12 +212,14 @@ Logo | Empresa | Site | Contato | Vagas
 
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
+![logo](logos/default.png) | BeBlue | [http://beblue.com.br/](http://beblue.com.br/)
 ![logo](logos/default.png) | Convertize E-Commerce | [http://www.convertize.com.br/](http://www.convertize.com.br/) | 55 (16) 3075-7676 - contato@convertize.com.br
-![logo](logos/default.png) | Crave Food Services | [https://sourcewhatsgood.com](https://sourcewhatsgood.com)
+![logo](logos/crave.png) | Crave Food Systems | [https://cravehq.com/](https://cravehq.com/) | | https://crave.workable.com/
 ![logo](logos/default.png) | M2i Consultoria | [http://www.m2iconsultoria.com.br/home/](http://www.m2iconsultoria.com.br/home/) | 55 (16) 3289 9851 - contato@m2iconsultoria.com
 ![logo](logos/default.png) | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | 55 (16) 3514-9966 - ti@okubomercantil.com.br
 ![logo](logos/default.png) | ezVoice | [http://www.ezvoice.com.br/](http://www.ezvoice.com.br/) | 55 (16) 3515-5800 - contato@ezvoice.com.br
-![logo](logos/default.png) | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | 55 (16) 3235-3209 - contato@iclinic.com.br
+![logo](logos/iclinic.png) | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | 55 (16) 3235-3209 - contato@iclinic.com.br
+![logo](logos/zerosoft.png) | ZeroSoft | [https://www.zerosoft.com.br/](https://www.zerosoft.com.br/) | +55 (16) 3916-2054 - contato@zerosoft.com.br | hireme@zerosoft.com.br
 
 #### São Carlos
 
@@ -224,6 +242,7 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | CathoLabs | [http://catholabs.com](http://catholabs.com) | [http://catho.com.br](http://catho.com.br)
 ![logo](logos/default.png) | Cetax | [https://www.cetax.com.br/](https://www.cetax.com.br/) | contato@cetax.com.br
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
+![logo](logos/confitec.png) | Confitec | [http://www.confitec.com.br/](http://www.confitec.com.br/) | 55 (11) 3528-7415 | [http://www.confitec.com.br/oportunidades.php](http://www.confitec.com.br/oportunidades.php)
 ![logo](logos/default.png) | Digesto | [https://digesto.com.br](https://digesto.com.br) | 55 (11) 2626-0350 | digesto@digesto.com.br
 ![logo](logos/default.png) | GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
 ![logo](logos/default.png) | Hacklab | [http://hacklab.com.br/](http://hacklab.com.br/) | 55 (11) 2892-0122
@@ -244,6 +263,9 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/nuveo.png) | Nuveo | [https://nuveo.com.br](https://nuveo.com.br) | 55 (11) 3280-3132
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-sp@elipse.com.br +55 (11) 4062 5824
 ![logo](logos/zap.png) | ZAP Imóveis | [https://www.zapimoveis.com.br](https://www.zapimoveis.com.br) | https://www.99jobs.com/zap-s-a-internet
+![logo](logos/4linux.png) | 4Linux | [https://www.4linux.com.br](https://www.4linux.com.br) |
+
+
 
 ### Rio de Janeiro
 
@@ -252,6 +274,8 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | WPensar | [http://wpensar.com.br/](http://wpensar.com.br/) | gustavo.morada@wpensar.com.br
+![logo](logos/dekode.png) | Dekode | [http://dekode.com.br/](http://dekode.com.br/)
+
 
 #### Rio de Janeiro
 
@@ -259,7 +283,7 @@ Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 ![logo](logos/default.png) | EloGroup | [http://elogroup.com.br/](http://elogroup.com.br/) | bernardo.fontes@elogroup.com.br
-![logo](logos/eshares.png) | eShares Brazil | [http://esharesinc.com/](http://esharesinc.com/) | recruiting@esharesinc.com (CV's em inglês) | [Vagas](https://jobs.lever.co/esharesinc/cc5e440e-56a2-4659-a67e-30ad6cabead9?lever-via=0SquhNdMDo)
+![logo](logos/CartaLogo.gif) | Carta Brazil | [http://carta.com/](http://carta.com/) | gustavo.morada@carta.com (CV's em inglês) | [Vagas](https://jobs.lever.co/carta/?location=Rio%20de%20Janeiro%2C%20Brazil&lever-via=Y9r2PZo0gE)
 ![logo](logos/default.png) | Finxi | [http://finxi.com.br/](http://finxi.com.br/) | victor.sousa@finxi.com.br
 ![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) | bernardo@corp.globo.com
 ![logo](logos/default.png) | Globosat | [http://globosat.tv.br](http://globosat.tv.br) | rh@globosat.com.br
@@ -273,6 +297,13 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-rj@elipse.com.br +55 (21) 2112 4682
 ![logo](logos/e-xyon.png) | e-Xyon | [https://e-xyon.com.br/](https://e-xyon.com.br/) | victor.rizzo@e-xyon.com.br +55 (21) 2121 0100 | [Vagas](https://e-xyon.com.br/contato/trabalhe-conosco)
 ![logo](logos/cwisoftware.png) | CWI Software | [https://cwi.com.br/](https://cwi.com.br/) | https://cwi.com.br/Contato | [Vagas](https://cwi.com.br/Candidato/Login)
+![logo](logos/acotelnet.png) | Acotel | [http://www.acotelnet.com](http://www.acotelnet.com) | [Vagas](http://www.acotelnet.com/en/site/work_with_us)
+
+#### Paracambi
+
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/lab01.png) | Lab01 | [https://lab01.com.br](https://lab01.com.br) | contato@lab01.com.br
 
 ## Sul
 
@@ -317,6 +348,11 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/erclinic.png) | ER Clinic | [https://erclinic.com.br](https://erclinic.com.br) | contato@ersistemas.info | 55 55 3217-4980
 ![logo](logos/ersistemas.png) | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info | 55 55 3217-4980
 
+#### São Leopoldo
+Logo | Empresa | Site | Contato | Vagas
+ --- | --- | --- | --- | ---
+![logo](logos/sap-logo.png) | SAP Labs Latin America | [https://www.sap.com/brazil/about.html](https://www.sap.com/brazil/about.html) | [https://jobs.sap.com/go/SAP-Jobs-in-Brazil/912701/](https://jobs.sap.com/go/SAP-Jobs-in-Brazil/912701/) |
+
 ### Santa Catarina
 
 #### Florianópolis
@@ -351,7 +387,7 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Magrathea Labs | [http://www.magrathealabs.com.br](http://www.magrathealabs.com.br) | contato@magrathealabs.com
-![logo](logos/default.png) | Meus Pedidos | [https://meuspedidos.com.br/](https://meuspedidos.com.br) | contato@meuspedidos.com.br
+![logo](logos/mercos.png) | Mercos | [https://www.mercos.com/](https://www.mercos.com) | contato@mercos.com
 ![logo](logos/default.png) | Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
 ![logo](logos/default.png) | iTFLEX Tecnologia | [https://www.itflex.com.br/](https://www.itflex.com.br/) | contato@itflex.com.br
 
@@ -366,4 +402,6 @@ Logo | Empresa | Site | Contato | Vagas
 Logo | Empresa | Site | Contato | Vagas
  --- | --- | --- | --- | ---
 ![logo](logos/m2agro.png) | M2Agro | [http://www.m2agro.com.br](http://www.m2agro.com.br) | [http://www.m2agro.com.br/career/](http://www.m2agro.com.br/career/)
+![logo](logos/serasa-consumidor.png) | Serasa Consumidor | [https://www.serasaconsumidor.com.br/](https://www.serasaconsumidor.com.br/) | [https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/](https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/) | [https://jobs.kenoby.com/serasaconsumidor](https://jobs.kenoby.com/serasaconsumidor)
+
 **_`****`_**
