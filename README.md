@@ -371,7 +371,8 @@ Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
 ![logo](logos/default.png) | M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 ![logo](logos/mercadolivre.png) | Mercado Livre Florianopolis | [http://www.mercadolivre.com.br](http://www.mercadolivre.com.br) | 55 48 3047 4704
 ![logo](logos/default.png) | Myreks | [http://www.myreks.com](http://www.myreks.com) | carrers@myreks.com
-![logo](logos/default.png) | Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
+![logo](logos/neoprospecta.png) | Neoprospecta | [neoprospecta.com.br](http://www.neoprospecta.com.br/) | [Contato](https://www.neoprospecta.com/contato/) | [Vagas](https://www.neoprospecta.com/carreira/)
+![logo](logos/biome-hub.png) | BiomeHub | [biome-hub.com ](https://www.biome-hub.com/) | [Contato](https://contato.biome-hub.com/contato) | [Vagas](https://www.biome-hub.com/carreira)
 ![logo](logos/default.png) | Nexxera | [http://www.nexxera.com](http://www.nexxera.com) | 55 48 2106 5698
 ![logo](logos/default.png) | ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | 55 48 3209 1609
 ![logo](logos/default.png) | SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | 55 48 3028 7462
