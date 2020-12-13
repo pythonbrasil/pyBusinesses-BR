@@ -336,7 +336,7 @@ Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
 
 Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
  --- | --- | --- | --- | --- | --- | ---
-![logo](logos/default.png) | Azion Technologies | [http://www.azion.com/](http://www.azion.com/) | marcelo.mallmann@azion.com
+![logo](logos/default.png) | Azion Technologies | [http://www.azion.com/](http://www.azion.com/) | rh@azion.com | [http://jobs.azion.com/](http://jobs.azion.com/)
 ![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) |
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | elipse@elipse.com.br +55 (51) 4062 5824
