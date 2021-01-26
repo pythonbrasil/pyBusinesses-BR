@@ -92,6 +92,16 @@ Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
  --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/ello-tecnologia.png) | Ello Tecnologia | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br) | clayton@ellotecnologia.net.br
 
+#### Cuiabá
+
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
+![logo](logos/default.png) | Connect Group | [https://www.connect.com.vc](https://www.connect.com.vc) | contato@connect.com.vc | | | |
+![logo](logos/lucrorural.png) | Lucro Rural | [https://www.lucrorural.com.br](https://www.lucrorural.com.br) | contato@lucrorural.com.br | | | Sim |
+![logo](logos/default.png) | NUTI | [http://www.ic.ufmt.br](http://www.ic.ufmt.br) | raphael@ic.ufmt.br | | | |
+![logo](logos/default.png) | Nuvem | [https://nuvem.net](https://nuvem.net/) | https://nuvem.net/#faleconosco | https://carreiras.nuvem.net | | Sim |
+
+
 ### Mato Grosso do Sul
 
 #### Campo Grande
