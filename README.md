@@ -150,6 +150,7 @@ Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
 Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
  --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/sigma-geosistemas.png) | Sigma Geosistemas | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | 55 34 3231-9858
+![logo](logos/dokehost.png) | DokeHost | [https://dokehost.com.br](https://dokehost.com.br) | contato@dokehost.com.br
 
 #### Itajubá
 
