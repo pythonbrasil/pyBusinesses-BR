@@ -18,8 +18,8 @@ Gráfico com o ranking das cidades com mais empresas utilizando a linguagem de p
 
 #### Manaus
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/fpf-tech.png) | FPF Tech | [http://www.fpftech.com/](http://www.fpftech.com/) ||
 ![logo](logos/bemol.png) | Lojas Bemol | [https://www.bemol.com.br/](https://www.bemol.com.br/) |bemolonline@bemol.com.br|
 ![logo](logos/buritech.jpg) | Buritech | [http://www.buritech.com.br/site/](http://www.buritech.com.br/site/) |contato@buritech.com.br|
@@ -32,35 +32,36 @@ Logo | Empresa | Site | Contato | Vagas
 
 #### Fortaleza
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/deway.png) | Deway | [http://www.deway.com.br](http://www.deway.com.br) | contato@deway.com.br
 ![logo](logos/funceme.png) | Funceme | [http://www.funceme.br](http://www.funceme.br) | funceme@funceme.br
 ![logo](logos/morphus.png) | Morphus | [http://www.morphus.com.br/](http://www.morphus.com.br/) | contato@morphus.com.br
+![logo](logos/intmed.png) | Intmed Software | [https://www.intmed.com.br/](https://www.intmed.com.br/) | contato@intmed.com.br
 
 ### Bahia
 
 #### Salvador
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
-![logo](logos/echoflow-engineering.png) | EchoFlow Engineering | [http://www.echoflowengineering.com/](http://www.echoflowengineering.com/)
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
+![logo](logos/echoflow-engineering.png) | EchoFlow Engineering | [http://echoflow.com.br/](http://echoflow.com.br/) | contato@echoflow.com.br
 ![logo](logos/escavador.png) | Escavador | [http://www.escavador.com](http://www.escavador.com)
 ![logo](logos/jusbrasil.png) | JusBrasil | [http://www.jusbrasil.com.br](http://www.jusbrasil.com.br)
 ![logo](logos/maqhin-solucoes-tecnologicas.png) | Maqhin Soluções Tecnológicas | [http://www.maqhin.com.br/](http://www.maqhin.com.br/) | contato@maqhin.com.br
 
 #### Feira de Santana
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/gerenciagram.png) | Gerenciagram | [https://gerenciagram.com.br/](http://gerenciagram.com.br/) | suporte@gerenciagram.com.br
 
 ### Pernambuco
 
 #### Recife
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Dantas Engenharia de Avaliações | [http://www.dantasengenharia.com/](http://www.dantasengenharia.com/) | suporte@dantas.eng.br
 ![logo](logos/genomika-diagnosticos.png) | Genomika Diagnósticos | [http://genomika.com.br](http://genomika.com.br) | bioinfo@genomika.com.br
 ![logo](logos/default.png) | Intelivix | [http://intelivix.com/](http://intelivix.com/) | contato@intelivix.com
@@ -74,8 +75,8 @@ Logo | Empresa | Site | Contato | Vagas
 
 #### Natal
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | 168 horas | [http://168h.com.br](http://168h.com.br) | 55 84 8712-4408
 ![logo](logos/evolux.png) | Evolux | [http://www.evolux.net.br](http://www.evolux.net.br) | 55 11 4003-3833
 ![logo](logos/ifrn.png) | IFRN | [http://suap.ifrn.edu.br](http://suap.ifrn.edu.br) | 55 84 4005-0772
@@ -87,36 +88,49 @@ Logo | Empresa | Site | Contato | Vagas
 
 #### Alta Floresta
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/ello-tecnologia.png) | Ello Tecnologia | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br) | clayton@ellotecnologia.net.br
+
+#### Cuiabá
+
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
+![logo](logos/default.png) | Connect Group | [https://www.connect.com.vc](https://www.connect.com.vc) | contato@connect.com.vc | | | |
+![logo](logos/lucrorural.png) | Lucro Rural | [https://www.lucrorural.com.br](https://www.lucrorural.com.br) | contato@lucrorural.com.br | | | Sim |
+![logo](logos/default.png) | NUTI | [http://www.ic.ufmt.br](http://www.ic.ufmt.br) | raphael@ic.ufmt.br | | | |
+![logo](logos/default.png) | Nuvem | [https://nuvem.net](https://nuvem.net/) | https://nuvem.net/#faleconosco | https://carreiras.nuvem.net | | Sim |
+
 
 ### Mato Grosso do Sul
 
 #### Campo Grande
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Avalue Sistemas | [http://www.avaluesistemas.com.br](http://www.avaluesistemas.com.br) | site ainda a lançar
 
 #### Dourados
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/maestrus.png) | Maestrus | [https://maestrus.com/](https://maestrus.com/) | 55 (67) 4042-0306
 
 ### Distrito Federal
 
 #### Brasília
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/configr.png) | Configr | [https://configr.com/](https://configr.com/) | suporte@configr.com | jobs@configr.com
 ![logo](logos/hex-gis.png) | Hex Gis | [http://www.hexgis.com/](http://www.hexgis.com/) | 55 61 3447-6213
 ![logo](logos/liberiun.png) | Liberiun | [http://www.liberiun.com/](http://www.liberiun.com/) | 55 61 3041-8172
 ![logo](logos/default.png) | Maption | [http://maption.com.br/](http://maption.com.br/) | contact@maption.com.br
 ![logo](logos/serpro.png) | SERPRO | [http://www.serpro.gov.br](http://www.serpro.gov.br) | 55 61 2021-7666
 ![logo](logos/lightbase.png) | Lightbase | [http://www.lightbase.com.br](http://www.lightbase.com.br) | 55 61 3347-1949
+![logo](logos/Plataforma-EAD.png) | Portal EAD | [https://www.plataformaead.net/](https://www.plataformaead.net/) | contato@estadovirtual.com.br
+![logo](logos/Cloud_Market.png) | Cloud Market | [https://www.cloudmarket.com.br/](https://www.cloudmarket.com.br/) | contato@cloudmarket.com.br
+
 
 ## Sudeste
 
@@ -124,8 +138,8 @@ Logo | Empresa | Site | Contato | Vagas
 
 #### Belo Horizonte
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/2xt.png) | 2XT | [http://www.2xt.com.br/](http://www.2xt.com.br/) | 55 31 3292-2120
 ![logo](logos/default.png) | BoxCoder | [http://www.boxcoder.org/](http://www.boxcoder.org/) | contato@boxcoder.org
 ![logo](logos/hekima.png)| Hekima | [http://hekima.com/pt-br/](http://hekima.com/pt-br/) | 55 31 2516-4812 | https://hekima.recruiterbox.com/
@@ -143,73 +157,74 @@ Logo | Empresa | Site | Contato | Vagas
 
 #### Uberlândia
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/sigma-geosistemas.png) | Sigma Geosistemas | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | 55 34 3231-9858
+![logo](logos/dokehost.png) | DokeHost | [https://dokehost.com.br](https://dokehost.com.br) | contato@dokehost.com.br
 
 #### Itajubá
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | KMEE | [http://kmee.com.br](http://kmee.com.br) | contato at kmee com br
 
 #### Juiz de Fora
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/lab01.png) | Lab01 | [https://lab01.com.br](https://lab01.com.br) | contato@lab01.com.br
 
 ### São Paulo
 
 #### Campinas
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Dextra | [http://dextra.com.br](http://dextra.com.br) | 55 19 3256-6722
 ![logo](logos/default.png) | Instituto de Pesquisas Eldorado | [http://www.eldorado.org.br](http://www.eldorado.org.br) | 55 19 3757-3000
 
 #### Catanduva
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Base4 Sistemas | [http://www.base4.com.br/](http://www.base4.com.br) | 55 17 3524-2971
 
 #### Franca
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Enter&Plug Sistemas | [http://enterplug.com.br](http://enterplug.com.br) | 55 16 3721-4283 / 11 4063-1864
 ![logo](logos/forip.png) | ForIP | [http://www.forip.com.br/](http://www.forip.com.br/) | +55 16 3702-3400
 
 #### Indaiatuba
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | GAS Tecnologia | [http://www.gastecnologia.com](http://www.gastecnologia.com) | afonso.franca@diebold.com
 
 #### Jundiai
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/databrain.png) | Data Brain | [http://databrain.com.br](http://databrain.com.br) | 55 11 98587-8650
 
 
 #### Limeira
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/grupocitec.png) | GrupoCITEC | [https://grupocitec.com](https://grupocitec.com) | info@grupocitec.com
 
 #### Marília
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/arcamo.png) | Arcamo | [http://www.arcamo.com.br/](http://www.arcamo.com.br/) | ettore@arcamo.com.br
 
 #### Ribeirão Preto
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | BeBlue | [http://beblue.com.br/](http://beblue.com.br/)
 ![logo](logos/default.png) | Convertize E-Commerce | [http://www.convertize.com.br/](http://www.convertize.com.br/) | 55 (16) 3075-7676 - contato@convertize.com.br
 ![logo](logos/crave.png) | Crave Food Systems | [https://cravehq.com/](https://cravehq.com/) | | https://crave.workable.com/
@@ -217,28 +232,30 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | Okubo Mercantil | [http://www.okubomercantil.com.br/](http://www.okubomercantil.com.br/) | 55 (16) 3514-9966 - ti@okubomercantil.com.br
 ![logo](logos/default.png) | ezVoice | [http://www.ezvoice.com.br/](http://www.ezvoice.com.br/) | 55 (16) 3515-5800 - contato@ezvoice.com.br
 ![logo](logos/iclinic.png) | iClinic | [https://iclinic.com.br/](https://iclinic.com.br/) | 55 (16) 3235-3209 - contato@iclinic.com.br
+![logo](logos/zerosoft.png) | ZeroSoft | [https://www.zerosoft.com.br/](https://www.zerosoft.com.br/) | +55 (16) 3916-2054 - contato@zerosoft.com.br | hireme@zerosoft.com.br
 
 #### São Carlos
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Stoq | [http://stoq.com.br](http://stoq.com.br) | hireme@async.com.br
 
 
 #### São José dos Campos
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Necto Systems | [http://nectosystems.com.br/](http://nectosystems.com.br/) | http://nectosystems.com.br/contato/
 
 #### São Paulo
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/cargobr.png) | CargoBR | [https://cargobr.com/](https://cargobr.com/) | 55 (11) 2507-4936
 ![logo](logos/default.png) | CathoLabs | [http://catholabs.com](http://catholabs.com) | [http://catho.com.br](http://catho.com.br)
 ![logo](logos/default.png) | Cetax | [https://www.cetax.com.br/](https://www.cetax.com.br/) | contato@cetax.com.br
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
+![logo](logos/confitec.png) | Confitec | [http://www.confitec.com.br/](http://www.confitec.com.br/) | 55 (11) 3528-7415 | [http://www.confitec.com.br/oportunidades.php](http://www.confitec.com.br/oportunidades.php)
 ![logo](logos/default.png) | Digesto | [https://digesto.com.br](https://digesto.com.br) | 55 (11) 2626-0350 | digesto@digesto.com.br
 ![logo](logos/default.png) | GetupCloud | [https://getupcloud.com/](https://getupcloud.com) | [https://getupcloud.com/contato/](https://getupcloud.com/contato/)
 ![logo](logos/default.png) | Hacklab | [http://hacklab.com.br/](http://hacklab.com.br/) | 55 (11) 2892-0122
@@ -260,23 +277,23 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-sp@elipse.com.br +55 (11) 4062 5824
 ![logo](logos/zap.png) | ZAP Imóveis | [https://www.zapimoveis.com.br](https://www.zapimoveis.com.br) | https://www.99jobs.com/zap-s-a-internet
 ![logo](logos/4linux.png) | 4Linux | [https://www.4linux.com.br](https://www.4linux.com.br) |
-
+![logo](logos/linker.png) | Linker | [https://www.linker.com.br](https://www.linker.com.br) |
 
 
 ### Rio de Janeiro
 
 #### Niterói
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | WPensar | [http://wpensar.com.br/](http://wpensar.com.br/) | gustavo.morada@wpensar.com.br
 ![logo](logos/dekode.png) | Dekode | [http://dekode.com.br/](http://dekode.com.br/)
 
 
 #### Rio de Janeiro
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Concrete Solutions | [http://www.concretesolutions.com.br](http://www.concretesolutions.com.br) | rh@concretesolutions.com.br
 ![logo](logos/default.png) | EloGroup | [http://elogroup.com.br/](http://elogroup.com.br/) | bernardo.fontes@elogroup.com.br
 ![logo](logos/CartaLogo.gif) | Carta Brazil | [http://carta.com/](http://carta.com/) | gustavo.morada@carta.com (CV's em inglês) | [Vagas](https://jobs.lever.co/carta/?location=Rio%20de%20Janeiro%2C%20Brazil&lever-via=Y9r2PZo0gE)
@@ -292,15 +309,13 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/storm-security.png) | Storm Security | [http://stormsec.com.br/](htto://stormsec.com.br/) | karina.garcia@stormsec.com.br
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-rj@elipse.com.br +55 (21) 2112 4682
 ![logo](logos/e-xyon.png) | e-Xyon | [https://e-xyon.com.br/](https://e-xyon.com.br/) | victor.rizzo@e-xyon.com.br +55 (21) 2121 0100 | [Vagas](https://e-xyon.com.br/contato/trabalhe-conosco)
+![logo](logos/cwisoftware.png) | CWI Software | [https://cwi.com.br/](https://cwi.com.br/) | https://cwi.com.br/Contato | [Vagas](https://cwi.com.br/Candidato/Login)
 ![logo](logos/acotelnet.png) | Acotel | [http://www.acotelnet.com](http://www.acotelnet.com) | [Vagas](http://www.acotelnet.com/en/site/work_with_us)
-
-
-
 
 #### Paracambi
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/lab01.png) | Lab01 | [https://lab01.com.br](https://lab01.com.br) | contato@lab01.com.br
 
 ## Sul
@@ -309,29 +324,29 @@ Logo | Empresa | Site | Contato | Vagas
 
 #### Curitiba
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/olist.png) | Olist | [https://olist.com](https://olist.com) | br@olist.com | https://bit.ly/olist-webdev
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-pr@elipse.com.br +55 (41) 4062 5824
 
 #### Apucarana
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/km-sistemas.png) | KM Sistemas | [http://www.kmsistemas.com.br/](http://www.kmsistemas.com.br/) | desenvolvimento@kmsistemas.com.br +55 (43) 3424 2300
 
 ### Rio Grande do Sul
 
 #### Frederico Westphalen
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Layer| [http://layerdesign.com.br/](http://layerdesign.com.br/) | contato@layerdesign.com.br
 
 #### Porto Alegre
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Azion Technologies | [http://www.azion.com/](http://www.azion.com/) | marcelo.mallmann@azion.com
 ![logo](logos/globocom.png) | Globo.com | [http://www.globo.com/](http://www.globo.com/) |
 ![logo](logos/default.png) | ThoughtWorks | [https://www.thoughtworks.com/pt](https://www.thoughtworks.com/pt) | [https://www.thoughtworks.com/pt/careers](https://www.thoughtworks.com/pt/careers)
@@ -341,17 +356,22 @@ Logo | Empresa | Site | Contato | Vagas
 
 #### Santa Maria
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/erclinic.png) | ER Clinic | [https://erclinic.com.br](https://erclinic.com.br) | contato@ersistemas.info | 55 55 3217-4980
 ![logo](logos/ersistemas.png) | ER Sistemas | [http://www.ersistemas.info](http://www.ersistemas.info) | contato@ersistemas.info | 55 55 3217-4980
+
+#### São Leopoldo
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
+![logo](logos/sap-logo.png) | SAP Labs Latin America | [https://www.sap.com/brazil/about.html](https://www.sap.com/brazil/about.html) | [https://jobs.sap.com/go/SAP-Jobs-in-Brazil/912701/](https://jobs.sap.com/go/SAP-Jobs-in-Brazil/912701/) |
 
 ### Santa Catarina
 
 #### Florianópolis
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Catarina Touch | [www.catarinatouch.com](http://www.catarinatouch.com) | 55 48 3207 8527
 ![logo](logos/default.png) | Chaordic | [https://www.chaordic.com.br ](https://www.chaordic.com.br) | 55 48 3232 3200
 ![logo](logos/default.png) | Cheesecake Labs | [https://www.ckl.io/](https://www.ckl.io/) | 55 (48) 3206-5246
@@ -364,7 +384,8 @@ Logo | Empresa | Site | Contato | Vagas
 ![logo](logos/default.png) | M2Agro | [http://m2agro.com.br ](http://m2agro.com.br) | marcelo.melo@m2agro.com.br
 ![logo](logos/mercadolivre.png) | Mercado Livre Florianopolis | [http://www.mercadolivre.com.br](http://www.mercadolivre.com.br) | 55 48 3047 4704
 ![logo](logos/default.png) | Myreks | [http://www.myreks.com](http://www.myreks.com) | carrers@myreks.com
-![logo](logos/default.png) | Neoprospecta | [http://www.neoprospecta.com.br/ ](http://www.neoprospecta.com.br/) |
+![logo](logos/neoprospecta.png) | Neoprospecta | [neoprospecta.com.br](http://www.neoprospecta.com.br/) | [Contato](https://www.neoprospecta.com/contato/) | [Vagas](https://www.neoprospecta.com/carreira/)
+![logo](logos/biome-hub.png) | BiomeHub | [biome-hub.com ](https://www.biome-hub.com/) | [Contato](https://contato.biome-hub.com/contato) | [Vagas](https://www.biome-hub.com/carreira)
 ![logo](logos/default.png) | Nexxera | [http://www.nexxera.com](http://www.nexxera.com) | 55 48 2106 5698
 ![logo](logos/default.png) | ParMais | [http://www.parmais.com.br/ ](http://www.parmais.com.br/) | 55 48 3209 1609
 ![logo](logos/default.png) | SIMB | [http://www.simb.com.br ](http://www.simb.com.br) | 55 48 3028 7462
@@ -377,22 +398,24 @@ Logo | Empresa | Site | Contato | Vagas
 
 #### Joinville
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Magrathea Labs | [http://www.magrathealabs.com.br](http://www.magrathealabs.com.br) | contato@magrathealabs.com
-![logo](logos/default.png) | Meus Pedidos | [https://meuspedidos.com.br/](https://meuspedidos.com.br) | contato@meuspedidos.com.br
+![logo](logos/mercos.png) | Mercos | [https://www.mercos.com/](https://www.mercos.com) | contato@mercos.com
 ![logo](logos/default.png) | Paggtaxi | [http://www.paggtaxi.com.br/](http://www.paggtaxi.com.br/) | alan@paggtaxi.com.br
 ![logo](logos/default.png) | iTFLEX Tecnologia | [https://www.itflex.com.br/](https://www.itflex.com.br/) | contato@itflex.com.br
 
 #### São José
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Intelbras | [http://www.intelbras.com.br/](http://www.intelbras.com.br/) | http://www.intelbras.com.br/fale-conosco | [Vagas aqui](http://trabalheconosco.intelbras.com.br/trabalhe-conosco-vagas.php)
 
 #### Blumenau
 
-Logo | Empresa | Site | Contato | Vagas
- --- | --- | --- | --- | ---
+Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/m2agro.png) | M2Agro | [http://www.m2agro.com.br](http://www.m2agro.com.br) | [http://www.m2agro.com.br/career/](http://www.m2agro.com.br/career/)
+![logo](logos/serasa-consumidor.png) | Serasa Consumidor | [https://www.serasaconsumidor.com.br/](https://www.serasaconsumidor.com.br/) | [https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/](https://www.serasaconsumidor.com.br/trabalhe-com-a-gente/) | [https://jobs.kenoby.com/serasaconsumidor](https://jobs.kenoby.com/serasaconsumidor)
+
 **_`****`_**
