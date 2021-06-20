@@ -130,6 +130,10 @@ Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
 ![logo](logos/lightbase.png) | Lightbase | [http://www.lightbase.com.br](http://www.lightbase.com.br) | 55 61 3347-1949
 ![logo](logos/Plataforma-EAD.png) | Portal EAD | [https://www.plataformaead.net/](https://www.plataformaead.net/) | contato@estadovirtual.com.br
 ![logo](logos/Cloud_Market.png) | Cloud Market | [https://www.cloudmarket.com.br/](https://www.cloudmarket.com.br/) | contato@cloudmarket.com.br
+![logo](logos/abaraujo.png) | AB Araújo | [https://www.abaraujo.com/](https://www.abaraujo.com/) | atendimento@abaraujo.com
+![logo](logos/privamax.png) | Privamax | [https://privamax.com.br/](https://privamax.com.br/) | contato@privamax.com.br
+![logo](logos/eteccursos.png) | Etec Cursos | [https://eteccursos.com.br/](https://eteccursos.com.br/) | contato@eteccurso.com.br
+![logo](logos/clinicapop.jpg) | Clínica Pop | [https://clinicapop.com/](https://clinicapop.com/) | clinicapop@bol.com.br
 
 
 ## Sudeste
