@@ -92,6 +92,16 @@ Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
  --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/ello-tecnologia.png) | Ello Tecnologia | [www.ellotecnologia.net.br](http://www.ellotecnologia.net.br) | clayton@ellotecnologia.net.br
 
+#### Cuiabá
+
+Logo | Empresa | Site | Contato | Vagas | Auxílio a Mudança | Aceita Remoto
+ --- | --- | --- | --- | --- | --- | ---
+![logo](logos/default.png) | Connect Group | [https://www.connect.com.vc](https://www.connect.com.vc) | contato@connect.com.vc | | | |
+![logo](logos/lucrorural.png) | Lucro Rural | [https://www.lucrorural.com.br](https://www.lucrorural.com.br) | contato@lucrorural.com.br | | | Sim |
+![logo](logos/default.png) | NUTI | [http://www.ic.ufmt.br](http://www.ic.ufmt.br) | raphael@ic.ufmt.br | | | |
+![logo](logos/default.png) | Nuvem | [https://nuvem.net](https://nuvem.net/) | https://nuvem.net/#faleconosco | https://carreiras.nuvem.net | | Sim |
+
+
 ### Mato Grosso do Sul
 
 #### Campo Grande
@@ -150,6 +160,7 @@ Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
 Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
  --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/sigma-geosistemas.png) | Sigma Geosistemas | [http://sigmageosistemas.com.br](http://sigmageosistemas.com.br) | 55 34 3231-9858
+![logo](logos/dokehost.png) | DokeHost | [https://dokehost.com.br](https://dokehost.com.br) | contato@dokehost.com.br
 
 #### Itajubá
 
@@ -266,7 +277,7 @@ Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
 ![logo](logos/elipse.png) | Elipse Software | [https://www.elipse.com.br](https://www.elipse.com.br) | vendas-sp@elipse.com.br +55 (11) 4062 5824
 ![logo](logos/zap.png) | ZAP Imóveis | [https://www.zapimoveis.com.br](https://www.zapimoveis.com.br) | https://www.99jobs.com/zap-s-a-internet
 ![logo](logos/4linux.png) | 4Linux | [https://www.4linux.com.br](https://www.4linux.com.br) |
-
+![logo](logos/linker.png) | Linker | [https://www.linker.com.br](https://www.linker.com.br) |
 
 
 ### Rio de Janeiro
