@@ -186,6 +186,7 @@ Logo | Empresa | Site | Contato | Vagas | Aceita Mudança | Aceita Remoto
  --- | --- | --- | --- | --- | --- | ---
 ![logo](logos/default.png) | Dextra | [http://dextra.com.br](http://dextra.com.br) | 55 19 3256-6722
 ![logo](logos/default.png) | Instituto de Pesquisas Eldorado | [http://www.eldorado.org.br](http://www.eldorado.org.br) | 55 19 3757-3000
+![logo](logos/botcity.png) | BotCity | [https://www.botcity.dev/](https://www.botcity.dev/) | ping@botcity.dev | [LinkedIn](https://www.linkedin.com/company/botcity/jobs/?viewAsMember=true) |  | Sim
 
 #### Catanduva
 
